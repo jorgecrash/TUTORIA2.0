@@ -1,0 +1,117 @@
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaDatos\bin\Debug\CapaDatos.dll
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaDatos\bin\Debug\CapaDatos.pdb
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaDatos\bin\Debug\CapaEntidades.dll
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaDatos\bin\Debug\CapaEntidades.pdb
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaDatos\obj\Debug\CapaDatos.dll
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaDatos\bin\Debug\CapaDatos.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaDatos\obj\Debug\CapaDatos.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaDatos\bin\Debug\CapaDatos.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaDatos\obj\Debug\CapaDatos.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaDatos\bin\Debug\CapaDatos.dll
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaDatos\obj\Debug\CapaDatos.dll
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaDatos\bin\Debug\CapaDatos.dll
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaDatos\obj\Debug\CapaDatos.dll
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaDatos\bin\Debug\CapaDatos.dll
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.dll
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\TOSHIBA\source\repos\jorgecrash\TUTORIA1.0\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\TOSHIBA\source\repos\jorgecrash\TUTORIA1.0\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\TOSHIBA\source\repos\jorgecrash\TUTORIA1.0\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\TOSHIBA\source\repos\jorgecrash\TUTORIA1.0\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\TOSHIBA\source\repos\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\TOSHIBA\source\repos\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\TOSHIBA\source\repos\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaDatos\bin\Debug\CapaDatos.dll
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.dll
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\NuevoTutoria\jorgecrash\TUTORIA1.0\CapaDatos\bin\Debug\CapaDatos.dll
+D:\NuevoTutoria\jorgecrash\TUTORIA1.0\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\NuevoTutoria\jorgecrash\TUTORIA1.0\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\NuevoTutoria\jorgecrash\TUTORIA1.0\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\NuevoTutoria\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\NuevoTutoria\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\NuevoTutoria\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\NuevoTutoria\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.dll
+D:\NuevoTutoria\jorgecrash\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaDatos\bin\Debug\CapaDatos.dll
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.dll
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaDatos\obj\Debug\CapaDatos.pdb

@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BF6C6ED4-9832-400D-AF99-9A1834573508}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>CapaPresentacion.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>C:\Users\User\Downloads\BUNIFU\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="BWCMM">
+      <HintPath>..\..\..\..\..\Downloads\ProyectoFinal +test\ProyectoFinal\BotonesMinimizarMaximizarCerrarMZ\BWCMM.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\..\Downloads\Guna-Framework-master\Guna-Framework-master\Guna Framework\Guna Framework\bin\Debug\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlertasForms.cs" />
+    <Compile Include="AlertaVacioTxtBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AlertaVacioTxtBox.Designer.cs">
+      <DependentUpon>AlertaVacioTxtBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cGuardarDatos.cs" />
+    <Compile Include="FrmBuscarEstudianteTutoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuscarEstudianteTutoria.Designer.cs">
+      <DependentUpon>FrmBuscarEstudianteTutoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDocente.Designer.cs">
+      <DependentUpon>FrmDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEstudiante.Designer.cs">
+      <DependentUpon>FrmEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFicha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFicha.Designer.cs">
+      <DependentUpon>FrmFicha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInformation.Designer.cs">
+      <DependentUpon>FrmInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMantDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMantDocente.Designer.cs">
+      <DependentUpon>FrmMantDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMantEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMantEstudiante.Designer.cs">
+      <DependentUpon>FrmMantEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMantFicha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMantFicha.Designer.cs">
+      <DependentUpon>FrmMantFicha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMantRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMantRegistro.Designer.cs">
+      <DependentUpon>FrmMantRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMantTutoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMantTutoria.Designer.cs">
+      <DependentUpon>FrmMantTutoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRegistro.Designer.cs">
+      <DependentUpon>FrmRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSuccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSuccess.Designer.cs">
+      <DependentUpon>FrmSuccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTutoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTutoria.Designer.cs">
+      <DependentUpon>FrmTutoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiciosDocente.cs" />
+    <EmbeddedResource Include="FrmBuscarEstudianteTutoria.resx">
+      <DependentUpon>FrmBuscarEstudianteTutoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDocente.resx">
+      <DependentUpon>FrmDocente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEstudiante.resx">
+      <DependentUpon>FrmEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFicha.resx">
+      <DependentUpon>FrmFicha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInformation.resx">
+      <DependentUpon>FrmInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMantDocente.resx">
+      <DependentUpon>FrmMantDocente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMantEstudiante.resx">
+      <DependentUpon>FrmMantEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMantFicha.resx">
+      <DependentUpon>FrmMantFicha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMantRegistro.resx">
+      <DependentUpon>FrmMantRegistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMantTutoria.resx">
+      <DependentUpon>FrmMantTutoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRegistro.resx">
+      <DependentUpon>FrmRegistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSuccess.resx">
+      <DependentUpon>FrmSuccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTutoria.resx">
+      <DependentUpon>FrmTutoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidades\CapaEntidades.csproj">
+      <Project>{13a07d40-4145-48da-871d-608396fde04d}</Project>
+      <Name>CapaEntidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaNegocio\CapaNegocio.csproj">
+      <Project>{8a244e16-f793-42c9-b94d-7a0536872cb8}</Project>
+      <Name>CapaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\163809372_3937792012970771_1511004919839933106_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\More Of My Robots Enjoying The Quiet Wonder Of The World.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eeeee.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pink-animated-hd-wallpapers-set-anime-wallpaper-animated-backgrounds-1697898759.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\widescreen-desktop-wallpapers-1288093846.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize_sin bordes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize_sin bordes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clos1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo %282%29_sin fondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo %283%29_sin fondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Teachers_35749.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profesores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen91.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen92.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen13.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

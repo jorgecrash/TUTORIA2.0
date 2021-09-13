@@ -1,0 +1,414 @@
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMain.resources
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstudiante.resources
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\bin\Debug\Bunifu_UI_v1.52.dll
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\bin\Debug\CapaDatos.dll
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantEstudiante.resources
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInformation.resources
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstudiante.resources
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInformation.resources
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMain.resources
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantEstudiante.resources
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDocente.resources
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantDocente.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDocente.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstudiante.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInformation.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMain.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantDocente.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantEstudiante.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\Primera Unidad\trabajo grupal\Tutorias-main\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDocente.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstudiante.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInformation.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMain.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantDocente.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantEstudiante.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDocente.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstudiante.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInformation.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMain.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantDocente.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantEstudiante.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDocente.resources
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstudiante.resources
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInformation.resources
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMain.resources
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantDocente.resources
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantEstudiante.resources
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmFicha.resources
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistro.resources
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTutoria.resources
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantTutoria.resources
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantRegistro.resources
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantFicha.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDocente.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstudiante.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmFicha.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInformation.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMain.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantDocente.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantEstudiante.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantFicha.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantRegistro.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantTutoria.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistro.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTutoria.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasF\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDocente.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstudiante.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FrmFicha.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInformation.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMain.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantDocente.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantEstudiante.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantFicha.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantRegistro.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantTutoria.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistro.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTutoria.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\TutoriasFinal\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDocente.resources
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstudiante.resources
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmFicha.resources
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInformation.resources
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMain.resources
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantDocente.resources
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantEstudiante.resources
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantFicha.resources
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantRegistro.resources
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantTutoria.resources
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistro.resources
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTutoria.resources
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\7moSemestre\DS\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDocente.resources
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstudiante.resources
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmFicha.resources
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInformation.resources
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMain.resources
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantDocente.resources
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantEstudiante.resources
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantFicha.resources
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantRegistro.resources
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantTutoria.resources
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistro.resources
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTutoria.resources
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Jorge\Desktop\TutoriasFinalF\ProyectoFinal\TutoriasFinalF\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDocente.resources
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstudiante.resources
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmFicha.resources
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInformation.resources
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMain.resources
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantDocente.resources
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantEstudiante.resources
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantFicha.resources
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantRegistro.resources
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantTutoria.resources
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistro.resources
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTutoria.resources
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\DESARROLLO DE SOFTWARE I\git\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDocente.resources
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstudiante.resources
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmFicha.resources
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInformation.resources
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMain.resources
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantDocente.resources
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantEstudiante.resources
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantFicha.resources
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantRegistro.resources
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantTutoria.resources
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistro.resources
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTutoria.resources
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\bin\Debug\Guna.UI.dll
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\bin\Debug\BWCMM.dll
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDocente.resources
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstudiante.resources
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmFicha.resources
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInformation.resources
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMain.resources
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantDocente.resources
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantEstudiante.resources
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantFicha.resources
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantRegistro.resources
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantTutoria.resources
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistro.resources
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTutoria.resources
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Jorge\Source\Repos\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDocente.resources
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstudiante.resources
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmFicha.resources
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInformation.resources
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMain.resources
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantDocente.resources
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantEstudiante.resources
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantFicha.resources
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantRegistro.resources
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantTutoria.resources
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistro.resources
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTutoria.resources
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\GITHUB - TUTORIAS\jorgecrash\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDocente.resources
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstudiante.resources
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmFicha.resources
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInformation.resources
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMain.resources
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantDocente.resources
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantEstudiante.resources
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantFicha.resources
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantRegistro.resources
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantTutoria.resources
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistro.resources
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTutoria.resources
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmBuscarEstudianteTutoria.resources
+C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmBuscarEstudianteTutoria.resources
