@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CapaDatos",
+    "\\Tutorias001"
   ],
-  "SelectedNode": "\\Tutorias001.sln",
+  "SelectedNode": "\\CapaDatos\\D_Ficha.cs",
   "PreviewInSolutionExplorer": false
 }
