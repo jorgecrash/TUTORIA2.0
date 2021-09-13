@@ -24,77 +24,69 @@ namespace CapaPresentacion
 
         }
         FrmMain M = new FrmMain();
-      
+        SqlConnection conexion = new SqlConnection(ConfigurationManager.ConnectionStrings["conectar"].ConnectionString);
         public bool logins(string _usuario, string _clave)
         {
             try
             {
+                conexion.Open();
 
-                using (SqlConnection conexion = new SqlConnection("Server=.;Integrated Security=yes; Database=Tutorias"))
+
+                SqlCommand cmd = new SqlCommand("SELECT * from Logins  WHERE Usuario= @Usuario AND Contraseña=@Contraseña ", conexion);
+
+                cmd.Parameters.AddWithValue("Usuario", usuario);
+                cmd.Parameters.AddWithValue("Contraseña", clave);
+                SqlDataAdapter sda = new SqlDataAdapter(cmd);
+                DataTable dt = new DataTable();
+                sda.Fill(dt);
+                if (dt.Rows.Count == 1)
                 {
-                    conexion.Open();
-                    //_usuario = txtusuario.Text;
-                    //_clave = txtcontraseña.Text;
+                    // this.Hide();
+                    MessageBox.Show("Login exitoso.");
+                    // FrmFicha F = new FrmFicha();
 
-                    using (SqlCommand cmd = new SqlCommand("SELECT * from Logins  WHERE Logins.Usuario='" + _usuario + "' AND Logins.Contraseña='" + _clave + "'", conexion))
-                    {
-                        cmd.Parameters.AddWithValue("Usuario", usuario);
-                        cmd.Parameters.AddWithValue("Contraseña", clave);
-                        SqlDataAdapter sda = new SqlDataAdapter(cmd);
-                        DataTable dt = new DataTable();
-                        sda.Fill(dt);
-                        if (dt.Rows.Count == 1)
-                        {
-                            // this.Hide();
-                            MessageBox.Show("Login exitoso.");
-                            // FrmFicha F = new FrmFicha();
-
-                            M.labelUsuario.Text = txtusuario.Text;
-                            M.labelCategoriaU.Text = dt.Rows[0][2].ToString();
-                            conexion.Close();
-                            return true;
-                        }
-                        else
-                        {
-                            if (txtusuario.Text == "" && txtcontraseña.Text != "")
-                            {
-                                msgError("Llenar el campo usuario");
-                                txtusuario.Focus();
-                            }
-                            else if (txtusuario.Text != "" && txtcontraseña.Text == "")
-                            {
-                                msgError("Llenar el campo contraseña");
-                                txtcontraseña.Focus();
-                            }
-                            else if (txtusuario.Text == "" && txtcontraseña.Text == "")
-                            {
-                                msgError("Llenar ambos campos");
-                                txtusuario.Focus();
-                            }
-                            else
-                            {
-                                msgError("Error Usuario i/o Contraseña");
-                                txtusuario.Text = "";
-                                txtcontraseña.Text = "";
-                                txtusuario.Focus();
-                            }
-                            conexion.Close();
-                            return false;
-                        }
-                    }
+                    M.labelUsuario.Text = txtusuario.Text;
+                    M.labelCategoriaU.Text = dt.Rows[0][2].ToString();
+                    conexion.Close();
+                    return true;
                 }
-            }
+                else
+                {
+                    if (txtusuario.Text == "" && txtcontraseña.Text != "")
+                    {
+                        msgError("Llenar el campo usuario");
+                        txtusuario.Focus();
+                    }
+                    else if (txtusuario.Text != "" && txtcontraseña.Text == "")
+                    {
+                        msgError("Llenar el campo contraseña");
+                        txtcontraseña.Focus();
+                    }
+                    else if (txtusuario.Text == "" && txtcontraseña.Text == "")
+                    {
+                        msgError("Llenar ambos campos");
+                        txtusuario.Focus();
+                    }
+                    else
+                    {
+                        msgError("Error Usuario i/o Contraseña");
+                        txtusuario.Text = "";
+                        txtcontraseña.Text = "";
+                        txtusuario.Focus();
+                    }
+                    conexion.Close();
+                    return false;
+                }
 
+            }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.ToString());
-                //conexion.Close();
+                conexion.Close();
                 return false;
 
             }
-
         }
-
         private void msgError(string msg)
         {
             lblError.Text = msg;
