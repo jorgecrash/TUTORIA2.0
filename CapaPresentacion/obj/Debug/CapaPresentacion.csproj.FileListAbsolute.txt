@@ -412,3 +412,35 @@ D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
 D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmBuscarEstudianteTutoria.resources
 C:\Users\angel\OneDrive\Documents\desarrollo de software\TUTORIA1.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmBuscarEstudianteTutoria.resources
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmBuscarEstudianteTutoria.resources
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDocente.resources
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstudiante.resources
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmFicha.resources
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInformation.resources
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMain.resources
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantDocente.resources
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantEstudiante.resources
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantFicha.resources
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantRegistro.resources
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMantTutoria.resources
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistro.resources
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTutoria.resources
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\GITHUB 2.0 TUTORIAS\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
