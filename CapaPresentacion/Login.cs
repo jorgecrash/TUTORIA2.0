@@ -87,6 +87,7 @@ namespace CapaPresentacion
 
             }
         }
+
         private void msgError(string msg)
         {
             lblError.Text = msg;
