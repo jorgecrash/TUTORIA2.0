@@ -141,3 +141,14 @@ D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCom
 D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
 D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaNegocio\obj\Debug\CapaNegocio.dll
 D:\TutoriaFinal(OJO)\TUTORIA1.0\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaNegocio\bin\Debug\CapaEntidades.dll
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaNegocio\bin\Debug\CapaEntidades.pdb
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaNegocio\obj\Debug\CapaNegocio.pdb
