@@ -25,7 +25,7 @@ namespace CapaPresentacion
         }
         FrmMain M = new FrmMain();
         SqlConnection conexion = new SqlConnection(ConfigurationManager.ConnectionStrings["conectar"].ConnectionString);
-        public bool logins(string _usuario, string _clave)
+        public  bool logins(string _usuario, string _clave)
         {
             try
             {
@@ -34,8 +34,8 @@ namespace CapaPresentacion
 
                 SqlCommand cmd = new SqlCommand("SELECT * from Logins  WHERE Usuario= @Usuario AND Contraseña=@Contraseña ", conexion);
 
-                cmd.Parameters.AddWithValue("Usuario", usuario);
-                cmd.Parameters.AddWithValue("Contraseña", clave);
+                cmd.Parameters.AddWithValue("Usuario", _usuario);
+                cmd.Parameters.AddWithValue("Contraseña", _clave);
                 SqlDataAdapter sda = new SqlDataAdapter(cmd);
                 DataTable dt = new DataTable();
                 sda.Fill(dt);
@@ -77,7 +77,7 @@ namespace CapaPresentacion
                     conexion.Close();
                     return false;
                 }
-
+               
             }
             catch (Exception ex)
             {
