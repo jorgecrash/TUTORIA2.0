@@ -150,6 +150,7 @@ namespace CapaPresentacion
             bool v = logins(usuario,clave);
             if (v)
             {
+               
                 this.Hide();
                 M.ShowDialog();
             }

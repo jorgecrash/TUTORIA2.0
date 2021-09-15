@@ -31,6 +31,22 @@ namespace CapaDatos
             conexion.Close();
             return tabla;
         }
+        public DataTable ListHistorialEstudiante(E_Ficha ficha)
+        {
+
+            DataTable tabla = new DataTable();
+            SqlCommand cmd = new SqlCommand("SP_HISTORIAL_ESTUDIANTE_TUTORIA", conexion);
+            cmd.CommandType = CommandType.StoredProcedure;
+            conexion.Open();
+
+            cmd.Parameters.AddWithValue("@IDESTUDIANTE", ficha.Search);
+
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            da.Fill(tabla);
+
+            conexion.Close();
+            return tabla;
+        }
         public DataTable ListFichas(E_Ficha ficha)
         {
 
@@ -96,7 +112,7 @@ namespace CapaDatos
             SqlCommand cmd = new SqlCommand("SP_INSERTARFICHA", conexion);
             cmd.CommandType = CommandType.StoredProcedure;
             conexion.Open();
-
+            cmd.Parameters.AddWithValue("@IDFICHATUTORIA", ficha.IdFichaTutoria);
             cmd.Parameters.AddWithValue("@IDTUTORIA", ficha.IdTutoria);
             cmd.Parameters.AddWithValue("@IDESTUDIANTE", ficha.IdEstudiante);
             cmd.Parameters.AddWithValue("@NROCELULAR", ficha.NroCelular);

@@ -11,5 +11,8 @@ namespace CapaPresentacion
         static public string user;
         static public string IdEstudiante;
         static public string IdTutoria;
+        static public string FechaHistorial;
+        static public string DesHistorial;
+        static public string TipoTutoriaHistorial;
     }
 }

@@ -13,6 +13,11 @@ namespace CapaNegocio
         D_Ficha data = new D_Ficha();
         E_Ficha entities = new E_Ficha();
 
+        public DataTable ListingHistorialEstudiante(string search)
+        {
+            entities.Search = search;
+            return data.ListHistorialEstudiante(entities);
+        }
         public DataTable ListingFichas(string search)
         {
             entities.Search = search;

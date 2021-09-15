@@ -30,7 +30,23 @@ namespace CapaPresentacion
         }
         private void FrmMain_Load(object sender, EventArgs e)
         {
-           
+            if(labelCategoriaU.Text == "Contratado" || labelCategoriaU.Text == "Nombrado")
+            {
+                btnFicha.Visible = true;
+                btnEstudiantes.Visible = false;
+                btnDocentes.Visible = false;
+                btnTutorados.Visible = false;
+                btnTutoria.Visible = false;
+            }
+            else
+            {
+                btnFicha.Visible = false;
+                btnEstudiantes.Visible = true;
+                btnDocentes.Visible = true;
+                btnTutorados.Visible = true;
+                btnTutoria.Visible = true;
+
+            }
         }
         public void selectedBotons(Bunifu.Framework.UI.BunifuFlatButton sender)
         {
