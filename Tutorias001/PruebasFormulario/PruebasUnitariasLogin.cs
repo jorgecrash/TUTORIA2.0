@@ -21,8 +21,6 @@ namespace PruebasFormulario
             //assert
             Assert.AreEqual(expectedResult, T);
         }
-
-
         [TestMethod]
         public void SesionValido()
         {
