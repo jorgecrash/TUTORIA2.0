@@ -83,6 +83,7 @@ namespace CapaPresentacion
             {
                 FrmMantEstudiante frm = new FrmMantEstudiante();
                 frm.Update = true;
+                frm.IdEstudiante= TablaEstudiante.Rows[e.RowIndex].Cells["IdEstudiante"].Value.ToString();
                 frm.textNombres.Text = TablaEstudiante.Rows[e.RowIndex].Cells["Nombres"].Value.ToString();
                 frm.textApellidos.Text = TablaEstudiante.Rows[e.RowIndex].Cells["Apellidos"].Value.ToString();
                 frm.txtSemestreActivo.Text = TablaEstudiante.Rows[e.RowIndex].Cells["SemestreActivo"].Value.ToString();

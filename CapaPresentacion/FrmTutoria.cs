@@ -14,7 +14,6 @@ namespace CapaPresentacion
 {
     public partial class FrmTutoria : Form
     {
-       
         N_Tutoria oTutoria = new N_Tutoria();
         public FrmTutoria()
         {
@@ -29,9 +28,9 @@ namespace CapaPresentacion
 
             TablaTutoria.Columns[0].Width = 10;
             TablaTutoria.Columns[1].Width = 10;
-            TablaTutoria.Columns[2].Width = 100;
-            TablaTutoria.Columns[3].Width = 100;
-            TablaTutoria.Columns[4].Width = 150;
+            TablaTutoria.Columns[2].Width = 200;
+            TablaTutoria.Columns[3].Width = 200;
+            TablaTutoria.Columns[4].Width = 250;
             TablaTutoria.Columns[5].Width = 200;
             TablaTutoria.Columns[6].Width = 170;
         }
@@ -78,7 +77,8 @@ namespace CapaPresentacion
             {
                 FrmMantTutoria frm = new FrmMantTutoria();
                 frm.Update = true;
-                frm.textId.Text = TablaTutoria.Rows[e.RowIndex].Cells["IdTutoria"].Value.ToString();
+                frm.IdTutoria = TablaTutoria.Rows[e.RowIndex].Cells["IdTutoria"].Value.ToString();
+                //frm.textId.Text = TablaTutoria.Rows[e.RowIndex].Cells["IdTutoria"].Value.ToString();
                 frm.textIdDocente.Text = TablaTutoria.Rows[e.RowIndex].Cells["IdDocente"].Value.ToString();
                 //frm.textHorario.Text = TablaTutoria.Rows[e.RowIndex].Cells["Horario"].Value.ToString();
                 

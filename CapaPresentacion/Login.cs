@@ -30,7 +30,7 @@ namespace CapaPresentacion
             try
             {
                 conexion.Open();
-               
+
 
                 SqlCommand cmd = new SqlCommand("SELECT * from Logins  WHERE Usuario= @Usuario AND Contraseña=@Contraseña ", conexion);
 
@@ -86,8 +86,11 @@ namespace CapaPresentacion
                 return false;
 
             }
-
         }
+
+
+
+
 
         private void msgError(string msg)
         {

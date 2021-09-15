@@ -37,10 +37,7 @@ namespace CapaPresentacion
             this.label4 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.topFormulario = new System.Windows.Forms.Panel();
-            this.label3 = new System.Windows.Forms.Label();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.textId = new System.Windows.Forms.TextBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.MoverFormulario = new Bunifu.Framework.UI.BunifuDragControl(this.components);
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.label5 = new System.Windows.Forms.Label();
@@ -53,7 +50,6 @@ namespace CapaPresentacion
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.topFormulario.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDocenteTutoria)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
@@ -102,7 +98,7 @@ namespace CapaPresentacion
             this.btnGuardar.IconVisible = true;
             this.btnGuardar.IconZoom = 90D;
             this.btnGuardar.IsTab = false;
-            this.btnGuardar.Location = new System.Drawing.Point(26, 293);
+            this.btnGuardar.Location = new System.Drawing.Point(32, 281);
             this.btnGuardar.Margin = new System.Windows.Forms.Padding(4);
             this.btnGuardar.Name = "btnGuardar";
             this.btnGuardar.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(139)))), ((int)(((byte)(87)))));
@@ -122,7 +118,7 @@ namespace CapaPresentacion
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.Black;
-            this.label4.Location = new System.Drawing.Point(62, 208);
+            this.label4.Location = new System.Drawing.Point(73, 182);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(57, 13);
             this.label4.TabIndex = 47;
@@ -133,7 +129,7 @@ namespace CapaPresentacion
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Black;
-            this.label2.Location = new System.Drawing.Point(59, 52);
+            this.label2.Location = new System.Drawing.Point(73, 96);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(73, 13);
             this.label2.TabIndex = 43;
@@ -151,46 +147,16 @@ namespace CapaPresentacion
             this.topFormulario.TabIndex = 41;
             this.topFormulario.Paint += new System.Windows.Forms.PaintEventHandler(this.topFormulario_Paint);
             // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.Color.Black;
-            this.label3.Location = new System.Drawing.Point(62, 127);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(69, 13);
-            this.label3.TabIndex = 53;
-            this.label3.Text = "ID TUTORIA";
-            // 
             // pictureBox5
             // 
             this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
-            this.pictureBox5.Location = new System.Drawing.Point(16, 77);
+            this.pictureBox5.Location = new System.Drawing.Point(16, 125);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(178, 32);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox5.TabIndex = 55;
             this.pictureBox5.TabStop = false;
             this.pictureBox5.Click += new System.EventHandler(this.pictureBox5_Click);
-            // 
-            // textId
-            // 
-            this.textId.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textId.Location = new System.Drawing.Point(26, 164);
-            this.textId.Name = "textId";
-            this.textId.Size = new System.Drawing.Size(157, 13);
-            this.textId.TabIndex = 60;
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.Enabled = false;
-            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(16, 154);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(178, 32);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox3.TabIndex = 59;
-            this.pictureBox3.TabStop = false;
             // 
             // MoverFormulario
             // 
@@ -203,7 +169,7 @@ namespace CapaPresentacion
             // 
             this.pictureBox2.Enabled = false;
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(242, 77);
+            this.pictureBox2.Location = new System.Drawing.Point(230, 77);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(201, 32);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -228,7 +194,7 @@ namespace CapaPresentacion
             this.dgvDocenteTutoria.AllowUserToOrderColumns = true;
             this.dgvDocenteTutoria.AllowUserToResizeColumns = false;
             this.dgvDocenteTutoria.AllowUserToResizeRows = false;
-            this.dgvDocenteTutoria.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.dgvDocenteTutoria.BackgroundColor = System.Drawing.SystemColors.ControlLight;
             this.dgvDocenteTutoria.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
             this.dgvDocenteTutoria.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvDocenteTutoria.EnableHeadersVisualStyles = false;
@@ -243,7 +209,7 @@ namespace CapaPresentacion
             // txtNomDocenteTutor
             // 
             this.txtNomDocenteTutor.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtNomDocenteTutor.Location = new System.Drawing.Point(251, 87);
+            this.txtNomDocenteTutor.Location = new System.Drawing.Point(240, 87);
             this.txtNomDocenteTutor.Name = "txtNomDocenteTutor";
             this.txtNomDocenteTutor.Size = new System.Drawing.Size(156, 13);
             this.txtNomDocenteTutor.TabIndex = 64;
@@ -253,16 +219,19 @@ namespace CapaPresentacion
             // 
             this.dtpFecha.CustomFormat = "dd/MM/yyyy";
             this.dtpFecha.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dtpFecha.Location = new System.Drawing.Point(16, 241);
+            this.dtpFecha.Location = new System.Drawing.Point(16, 217);
+            this.dtpFecha.MaxDate = new System.DateTime(2023, 2, 1, 0, 0, 0, 0);
+            this.dtpFecha.MinDate = new System.DateTime(2021, 9, 13, 0, 0, 0, 0);
             this.dtpFecha.Name = "dtpFecha";
             this.dtpFecha.Size = new System.Drawing.Size(103, 20);
             this.dtpFecha.TabIndex = 65;
+            this.dtpFecha.ValueChanged += new System.EventHandler(this.dtpFecha_ValueChanged);
             // 
             // dtpHora
             // 
             this.dtpHora.CustomFormat = "HH:mm";
             this.dtpHora.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dtpHora.Location = new System.Drawing.Point(126, 241);
+            this.dtpHora.Location = new System.Drawing.Point(126, 217);
             this.dtpHora.Name = "dtpHora";
             this.dtpHora.ShowUpDown = true;
             this.dtpHora.Size = new System.Drawing.Size(68, 20);
@@ -276,16 +245,19 @@ namespace CapaPresentacion
             // textIdDocente
             // 
             this.textIdDocente.BackColor = System.Drawing.Color.White;
-            this.textIdDocente.Location = new System.Drawing.Point(26, 84);
+            this.textIdDocente.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textIdDocente.Enabled = false;
+            this.textIdDocente.Location = new System.Drawing.Point(27, 133);
             this.textIdDocente.Name = "textIdDocente";
-            this.textIdDocente.Size = new System.Drawing.Size(157, 20);
+            this.textIdDocente.Size = new System.Drawing.Size(157, 13);
             this.textIdDocente.TabIndex = 67;
+            this.textIdDocente.Validating += new System.ComponentModel.CancelEventHandler(this.textIdDocente_Validating);
             // 
             // FrmMantTutoria
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(562, 362);
+            this.ClientSize = new System.Drawing.Size(562, 352);
             this.Controls.Add(this.textIdDocente);
             this.Controls.Add(this.dtpHora);
             this.Controls.Add(this.dtpFecha);
@@ -293,10 +265,7 @@ namespace CapaPresentacion
             this.Controls.Add(this.dgvDocenteTutoria);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.pictureBox2);
-            this.Controls.Add(this.textId);
-            this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox5);
-            this.Controls.Add(this.label3);
             this.Controls.Add(this.btnGuardar);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label2);
@@ -309,7 +278,6 @@ namespace CapaPresentacion
             this.topFormulario.ResumeLayout(false);
             this.topFormulario.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDocenteTutoria)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
@@ -325,10 +293,7 @@ namespace CapaPresentacion
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Panel topFormulario;
-        private System.Windows.Forms.Label label3;
         private System.Windows.Forms.PictureBox pictureBox5;
-        public System.Windows.Forms.TextBox textId;
-        private System.Windows.Forms.PictureBox pictureBox3;
         private Bunifu.Framework.UI.BunifuDragControl MoverFormulario;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Label label5;

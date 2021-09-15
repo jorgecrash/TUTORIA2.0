@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.circleci",
+    "\\CapaDatos",
     "\\CapaPresentacion",
-    "\\Tutorias001",
-    "\\Tutorias001\\PruebasFormulario"
+    "\\Tutorias001"
   ],
+  "SelectedNode": "\\CapaPresentacion\\FrmMantFicha.cs",
   "PreviewInSolutionExplorer": false
 }
