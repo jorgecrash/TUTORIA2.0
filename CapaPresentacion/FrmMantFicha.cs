@@ -68,7 +68,7 @@ namespace CapaPresentacion
             {
                 try
                 {
-
+                    entities.IdFichaTutoria = textId.Text;
                     entities.IdTutoria = textIdTutoria.Text;
                     entities.IdEstudiante = textIdEstudiante.Text;
                     entities.NroCelular = textNroCelular.Text;
