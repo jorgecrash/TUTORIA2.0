@@ -14,5 +14,7 @@ namespace CapaPresentacion
         static public string FechaHistorial;
         static public string DesHistorial;
         static public string TipoTutoriaHistorial;
+        static public string Lusuario;
+        static public string Lclave;
     }
 }

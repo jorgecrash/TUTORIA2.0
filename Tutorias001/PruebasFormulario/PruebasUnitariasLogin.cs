@@ -8,20 +8,24 @@ namespace PruebasFormulario
     [TestClass]
     public class PruebasUnitariasLogin
     {
+       
         [TestMethod]
+        
         public void SesionValido()
         {
+
             Login L = new Login();
             //arange
-            string usuario = "Cata";
-            string clave = "cataL";
-            bool ResultadoEsperado = true;
+           
+            var usuario = "ana";
+            var clave = "ana";
+            var ResultadoEsperado = true;
 
             //act
-            bool T= L.logins(usuario, clave);
-
+            var T = L.logins(usuario,clave);
+            
             //assert
-            Assert.AreEqual(ResultadoEsperado, T);
+            Assert.AreEqual(ResultadoEsperado,T);
         }
         [TestMethod]
         public void SesionIncorrectoClave()
