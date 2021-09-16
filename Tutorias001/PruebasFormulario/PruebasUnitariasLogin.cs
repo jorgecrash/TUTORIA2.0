@@ -22,7 +22,7 @@ namespace PruebasFormulario
             Assert.AreEqual(expectedResult, T);
         }
 
-        /*
+
         [TestMethod]
         public void SesionValido()
         {
@@ -53,7 +53,7 @@ namespace PruebasFormulario
             //assert
             Assert.AreEqual(ResultadoEsperado, T);
         }
-        
+        /*
         [TestMethod]
         public void SesionIncorrectoUsuario()
         {
