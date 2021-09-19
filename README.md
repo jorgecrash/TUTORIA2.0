@@ -7,11 +7,9 @@
 * Cusihuaman Auccacusi Luis Aldair				  170750                         *
 * Espinal Huamán, Ángel plácido				      164564                         *
 * Flores Robles, Katheryne Sharmelly 				182910                         *
-* Jara Hillpa Luis Abelardo					        160544                         *
-* Mamani Chino Ruben						            163809                         *
+* Jara Hillpa Luis Abelardo					        160544                         *                      
 * Rodríguez ojeda, Jorge Víctor				      171069                         *
-* Salas Ccolqque, Willian					          174450                         *
-* Yuca Lima Karla Urbelinda 					      182941                         *
+* Salas Ccolqque, Willian					          174450                         *                       
 * Yañez Tuero, Jose Angel					          171573                         *
 ****************************************************************************
 Aqui se encuentra un proyecto de SISTEMA DE TUTORIAS  con pruebas UNITARIAS de cada INTERFAZ

@@ -24,18 +24,17 @@ namespace CapaPresentacion
 
         }
         FrmMain M = new FrmMain();
-        SqlConnection conexion = new SqlConnection(ConfigurationManager.ConnectionStrings["conectar"].ConnectionString);
-        public bool logins(string _usuario, string _clave)
+   
+        public  bool logins(string user, string clav)
         {
+            SqlConnection conexion = new SqlConnection(ConfigurationManager.ConnectionStrings["conectar"].ConnectionString);
             try
             {
                 conexion.Open();
+                SqlCommand cmd = new SqlCommand("SELECT * from Logins  WHERE Usuario=@Usuario AND Contraseña=@Contraseña", conexion);
 
-
-                SqlCommand cmd = new SqlCommand("SELECT * from Logins  WHERE Usuario= @Usuario AND Contraseña=@Contraseña ", conexion);
-
-                cmd.Parameters.AddWithValue("Usuario", usuario);
-                cmd.Parameters.AddWithValue("Contraseña", clave);
+                cmd.Parameters.AddWithValue("Usuario", user);
+                cmd.Parameters.AddWithValue("Contraseña", clav);
                 SqlDataAdapter sda = new SqlDataAdapter(cmd);
                 DataTable dt = new DataTable();
                 sda.Fill(dt);
@@ -74,7 +73,7 @@ namespace CapaPresentacion
                         txtcontraseña.Text = "";
                         txtusuario.Focus();
                     }
-                    conexion.Close();
+                   // conexion.Close();
                     return false;
                 }
 
@@ -82,15 +81,12 @@ namespace CapaPresentacion
             catch (Exception ex)
             {
                 MessageBox.Show(ex.ToString());
-                conexion.Close();
+              //  conexion.Close();
                 return false;
 
             }
+
         }
-
-
-
-
 
         private void msgError(string msg)
         {
@@ -150,12 +146,13 @@ namespace CapaPresentacion
             bool v = logins(usuario,clave);
             if (v)
             {
+               
                 this.Hide();
                 M.ShowDialog();
             }
             
         }
-
+        
         private void panel2_Paint(object sender, PaintEventArgs e)
         {
 

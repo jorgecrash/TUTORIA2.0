@@ -26,8 +26,8 @@ namespace CapaPresentacion
         }
         public void OcultarMoverAncharColumnas()
         {
-            TablaFicha.Columns[0].DisplayIndex = 13;
-            TablaFicha.Columns[1].DisplayIndex = 13;
+            TablaFicha.Columns[0].DisplayIndex = 14;
+            TablaFicha.Columns[1].DisplayIndex = 14;
 
         }
         public void MostrarTablaFicha()
@@ -84,7 +84,7 @@ namespace CapaPresentacion
             {
                 FrmMantFicha frm = new FrmMantFicha();
                 frm.Update = true;
-                //frm.textId.Text = TablaFicha.Rows[e.RowIndex].Cells["IdFichaTutoria"].Value.ToString();
+                frm.textId.Text = TablaFicha.Rows[e.RowIndex].Cells["IdFichaTutoria"].Value.ToString();
                 frm.textIdTutoria.Text = TablaFicha.Rows[e.RowIndex].Cells["IdTutoria"].Value.ToString();
                 frm.textIdEstudiante.Text = TablaFicha.Rows[e.RowIndex].Cells["IdEstudiante"].Value.ToString();
                 frm.textNroCelular.Text = TablaFicha.Rows[e.RowIndex].Cells["NroCelular"].Value.ToString();

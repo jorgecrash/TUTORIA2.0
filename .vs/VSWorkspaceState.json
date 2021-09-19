@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\CapaDatos",
     "\\CapaPresentacion",
-    "\\Tutorias001",
-    "\\Tutorias001\\PruebasFormulario"
+    "\\Tutorias001"
   ],
-  "SelectedNode": "\\CapaPresentacion\\FrmInformation.cs",
+  "SelectedNode": "\\CapaPresentacion\\App.config",
   "PreviewInSolutionExplorer": false
 }

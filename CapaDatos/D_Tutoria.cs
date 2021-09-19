@@ -63,7 +63,6 @@ namespace CapaDatos
             SqlCommand cmd = new SqlCommand("SP_INSERTARTUTORIA", conexion);
             cmd.CommandType = CommandType.StoredProcedure;
             conexion.Open();
-            cmd.Parameters.AddWithValue("@IDTUTORIA", tutoria.IdTutoria);
             cmd.Parameters.AddWithValue("@IDDOCENTE", tutoria.IdDocente);
             cmd.Parameters.AddWithValue("@HORARIO", tutoria.Horario);
 

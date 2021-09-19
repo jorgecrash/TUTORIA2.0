@@ -30,7 +30,23 @@ namespace CapaPresentacion
         }
         private void FrmMain_Load(object sender, EventArgs e)
         {
-           
+            if(labelCategoriaU.Text == "Contratado" || labelCategoriaU.Text == "Nombrado")
+            {
+                btnFicha.Visible = true;
+                btnEstudiantes.Visible = false;
+                btnDocentes.Visible = false;
+                btnTutorados.Visible = false;
+                btnTutoria.Visible = false;
+            }
+            else
+            {
+                btnFicha.Visible = false;
+                btnEstudiantes.Visible = true;
+                btnDocentes.Visible = true;
+                btnTutorados.Visible = true;
+                btnTutoria.Visible = true;
+
+            }
         }
         public void selectedBotons(Bunifu.Framework.UI.BunifuFlatButton sender)
         {
@@ -122,7 +138,7 @@ namespace CapaPresentacion
         public DataSet EjecutarSelect(string pConsulta)
         {//-- Método para ejecutar consultas del tipo SELECT
 
-            using (SqlConnection conexion = new SqlConnection("Server=.;Integrated Security=yes; Database=Tutorias"))
+            using (SqlConnection conexion = new SqlConnection("Server=tcp:unsaac-server.database.windows.net,1433;Initial Catalog=dbTUTORIA;Persist Security Info=False;User ID=adminxd;Password=5uLh3g5xd7BUWz;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"))
             {
                 conexion.Open();
                 SqlDataAdapter a = new SqlDataAdapter();

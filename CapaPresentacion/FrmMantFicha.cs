@@ -27,7 +27,7 @@ namespace CapaPresentacion
         }
         private void FrmMantFicha_Load(object sender, EventArgs e)
         {
-           // textIdEstudiante.Text = cGuardarDatos.IdEstudiante;
+            // textIdEstudiante.Text = cGuardarDatos.IdEstudiante;
         }
         public string Encriptar(string _cadenaAencriptar)
         {
@@ -68,9 +68,9 @@ namespace CapaPresentacion
             {
                 try
                 {
-                   
-                    entities.IdTutoria =textIdTutoria.Text;
-                    entities.IdEstudiante =textIdEstudiante.Text;
+                    entities.IdFichaTutoria = textId.Text;
+                    entities.IdTutoria = textIdTutoria.Text;
+                    entities.IdEstudiante = textIdEstudiante.Text;
                     entities.NroCelular = textNroCelular.Text;
                     entities.Direccion = textDireccion.Text;
                     entities.Email = textEmail.Text;
@@ -98,14 +98,41 @@ namespace CapaPresentacion
         private void button2_Click(object sender, EventArgs e)
         {
             FrmBuscarEstudianteTutoria Es = new FrmBuscarEstudianteTutoria();
-           // Es.indice=log
-           DialogResult R= Es.ShowDialog();
-            
-            if(R==DialogResult.OK)
+            // Es.indice=log
+            DialogResult R = Es.ShowDialog();
+
+            if (R == DialogResult.OK)
             {
                 textIdEstudiante.Text = cGuardarDatos.IdEstudiante;
                 textIdTutoria.Text = cGuardarDatos.IdTutoria;
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (textIdEstudiante.Text == "" || textIdTutoria.Text == "")
+            {
+                MessageBox.Show("Elegir Estudiate por favor");
+            }
+            else
+            {
+               
+                FrmHistorialEstudianteTutoria H = new FrmHistorialEstudianteTutoria();
+                DialogResult R = H.ShowDialog();
+                if(R == DialogResult.OK)
+                {
+                    dtpFecha.Text = cGuardarDatos.FechaHistorial;
+                    richTextBoxDescripcion.Text = cGuardarDatos.DesHistorial;
+                   comboBoxTipoTutoria.Text = cGuardarDatos.TipoTutoriaHistorial;
+                }
+            }
+        }
+
+        private void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            dtpFecha.Text = "";
+            richTextBoxDescripcion.Text = "";
+            comboBoxTipoTutoria.Text = "";
         }
     }
 }
