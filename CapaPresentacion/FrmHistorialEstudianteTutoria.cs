@@ -27,7 +27,7 @@ namespace CapaPresentacion
         }
         private void FrmHistorialEstudianteTutoria_Load(object sender, EventArgs e)
         {
-            
+
             MostrarTablaHistorialEstudiante();
         }
 
