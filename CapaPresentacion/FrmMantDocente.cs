@@ -15,6 +15,7 @@ namespace CapaPresentacion
     public partial class FrmMantDocente : Form
     {
         public bool Update = false;
+        public string IdDocente = "";
         E_Docente entities = new E_Docente();
         N_Docente business = new N_Docente();
 
@@ -117,8 +118,8 @@ namespace CapaPresentacion
                 {
                     try
                     {
+                        entities.IdDocente = IdDocente;
                         entities.Nombres = textNombres.Text;
-                        // entities.IdEstudiante = Convert.ToInt32(textCodigo.Text);
                         entities.Apellidos = textApellidos.Text;
                         entities.TituloAcademico = textTitulo.Text;
                         entities.Facultad = comboBoxFacultad.Text;
