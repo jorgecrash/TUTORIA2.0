@@ -38,6 +38,7 @@ namespace CapaPresentacion
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
             this.btnSalir = new System.Windows.Forms.PictureBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.tablaBuscarTutoriaEstudiante)).BeginInit();
             this.panel1.SuspendLayout();
@@ -111,6 +112,7 @@ namespace CapaPresentacion
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.panel2);
             this.panel1.Controls.Add(this.groupBox1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -138,6 +140,17 @@ namespace CapaPresentacion
             this.btnSalir.TabIndex = 0;
             this.btnSalir.TabStop = false;
             this.btnSalir.Click += new System.EventHandler(this.Cerrar_Click);
+            // 
+            // button1
+            // 
+            this.button1.DialogResult = System.Windows.Forms.DialogResult.OK;
+            this.button1.Location = new System.Drawing.Point(240, 309);
+            this.button1.Margin = new System.Windows.Forms.Padding(2);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(82, 35);
+            this.button1.TabIndex = 5;
+            this.button1.Text = "Salir";
+            this.button1.UseVisualStyleBackColor = true;
             // 
             // FrmBuscarEstudianteTutoria
             // 
@@ -168,5 +181,6 @@ namespace CapaPresentacion
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.PictureBox btnSalir;
+        private System.Windows.Forms.Button button1;
     }
 }
