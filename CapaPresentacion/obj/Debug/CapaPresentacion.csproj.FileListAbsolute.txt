@@ -468,3 +468,4 @@ D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.cspr
 D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
 D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\angel\Source\Repos\jorgecrash\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmHistorialEstudianteTutoria.resources

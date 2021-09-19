@@ -133,8 +133,14 @@
   <data name="Imagen10" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Imagen10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Imagen14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Imagen14.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Imagen12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Imagen12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngwing.com" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngwing.com.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="close1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\close.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -144,6 +150,9 @@
   </data>
   <data name="maximize_sin bordes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\maximize_sin bordes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Imagen13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Imagen13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="minimize_sin bordes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\minimize_sin bordes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -202,6 +211,9 @@
   <data name="Imagen7" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Imagen7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Closea" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Closea.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="pink-animated-hd-wallpapers-set-anime-wallpaper-animated-backgrounds-1697898759" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pink-animated-hd-wallpapers-set-anime-wallpaper-animated-backgrounds-1697898759.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -214,7 +226,7 @@
   <data name="More Of My Robots Enjoying The Quiet Wonder Of The World" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\More Of My Robots Enjoying The Quiet Wonder Of The World.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Imagen13" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Imagen13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="check" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\check.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
