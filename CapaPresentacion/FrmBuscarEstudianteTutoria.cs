@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 namespace CapaPresentacion
 {
-   
+
     public partial class FrmBuscarEstudianteTutoria : Form
     {
         public string indice;
@@ -23,7 +23,7 @@ namespace CapaPresentacion
         {
             N_Ficha oFicha = new N_Ficha();
             FrmFicha F = new FrmFicha();
-            
+
             tablaBuscarTutoriaEstudiante.DataSource = oFicha.ListingEstudianteTutoria(cGuardarDatos.user);
         }
 
@@ -32,24 +32,24 @@ namespace CapaPresentacion
             N_Ficha oFicha = new N_Ficha();
             FrmFicha F = new FrmFicha();
 
-            tablaBuscarTutoriaEstudiante.DataSource = oFicha.SearchingEstudiante_Tutoria(txtBuscarTutoriaEstudiante.text,cGuardarDatos.user);
+            tablaBuscarTutoriaEstudiante.DataSource = oFicha.SearchingEstudiante_Tutoria(txtBuscarTutoriaEstudiante.text, cGuardarDatos.user);
         }
         private void FrmBuscarEstudianteTutoria_Load(object sender, EventArgs e)
         {
-            
+
             //string L = F.TablaFicha.Rows[0].Cells[2].Value.ToString();
             MostrarTablaFicha();
-           // MessageBox.Show(L);
+            // MessageBox.Show(L);
         }
 
         private void txtBuscarTutoriaEstudiante_OnTextChange(object sender, EventArgs e)
         {
             Buscar_Estudiante_Tutoria();
-            if(txtBuscarTutoriaEstudiante.text == "")
+            if (txtBuscarTutoriaEstudiante.text == "")
             {
                 MostrarTablaFicha();
             }
-            
+
         }
 
         private void tablaBuscarTutoriaEstudiante_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -75,9 +75,10 @@ namespace CapaPresentacion
 
             cGuardarDatos.IdTutoria = tablaBuscarTutoriaEstudiante.Rows[e.RowIndex].Cells["IdTutoria"].Value.ToString();
         }
-        private void Cerrar_Click(object sender, EventArgs e)
+
+        private void btnSalir_Click(object sender, EventArgs e)
         {
-            this.Close();
+            btnSalir.DialogResult = DialogResult.OK;
         }
     }
 }
