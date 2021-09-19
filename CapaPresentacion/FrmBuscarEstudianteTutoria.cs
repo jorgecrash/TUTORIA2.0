@@ -75,10 +75,9 @@ namespace CapaPresentacion
 
             cGuardarDatos.IdTutoria = tablaBuscarTutoriaEstudiante.Rows[e.RowIndex].Cells["IdTutoria"].Value.ToString();
         }
-
-        private void btnSalir_Click(object sender, EventArgs e)
+        private void Cerrar_Click(object sender, EventArgs e)
         {
-            btnSalir.DialogResult = DialogResult.OK;
+            this.Close();
         }
     }
 }
