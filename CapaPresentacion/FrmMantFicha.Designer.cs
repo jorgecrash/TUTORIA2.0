@@ -195,6 +195,7 @@ namespace CapaPresentacion
             this.textNroCelular.Name = "textNroCelular";
             this.textNroCelular.Size = new System.Drawing.Size(140, 15);
             this.textNroCelular.TabIndex = 71;
+            this.textNroCelular.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textNroCelular_KeyPress);
             // 
             // label6
             // 
@@ -232,11 +233,12 @@ namespace CapaPresentacion
             // textEmail
             // 
             this.textEmail.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textEmail.Location = new System.Drawing.Point(276, 177);
+            this.textEmail.Location = new System.Drawing.Point(267, 179);
             this.textEmail.Margin = new System.Windows.Forms.Padding(4);
             this.textEmail.Name = "textEmail";
             this.textEmail.Size = new System.Drawing.Size(463, 15);
             this.textEmail.TabIndex = 77;
+            this.textEmail.TextChanged += new System.EventHandler(this.textEmail_TextChanged);
             // 
             // label8
             // 
@@ -258,6 +260,7 @@ namespace CapaPresentacion
             this.textPersonaReferencia.Name = "textPersonaReferencia";
             this.textPersonaReferencia.Size = new System.Drawing.Size(444, 15);
             this.textPersonaReferencia.TabIndex = 80;
+            this.textPersonaReferencia.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textPersonaReferencia_KeyPress);
             // 
             // label9
             // 
@@ -279,6 +282,8 @@ namespace CapaPresentacion
             this.textCelularReferencia.Name = "textCelularReferencia";
             this.textCelularReferencia.Size = new System.Drawing.Size(146, 15);
             this.textCelularReferencia.TabIndex = 83;
+            this.textCelularReferencia.TextChanged += new System.EventHandler(this.textCelularReferencia_TextChanged);
+            this.textCelularReferencia.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textCelularReferencia_KeyPress);
             // 
             // label11
             // 
@@ -331,9 +336,9 @@ namespace CapaPresentacion
             this.label13.Location = new System.Drawing.Point(22, 111);
             this.label13.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(107, 17);
+            this.label13.Size = new System.Drawing.Size(184, 17);
             this.label13.TabIndex = 94;
-            this.label13.Text = "DESCRIPCIÓN";
+            this.label13.Text = "DESCRIPCIÓN(Encriptada)";
             // 
             // richTextBoxDescripcion
             // 

@@ -31,10 +31,8 @@ namespace CapaPresentacion
         {
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmHistorialEstudianteTutoria));
             this.TablaHistorial = new Bunifu.Framework.UI.BunifuCustomDataGrid();
             this.button1 = new System.Windows.Forms.Button();
-            this.bunifuTextbox1 = new Bunifu.Framework.UI.BunifuTextbox();
             ((System.ComponentModel.ISupportInitialize)(this.TablaHistorial)).BeginInit();
             this.SuspendLayout();
             // 
@@ -60,20 +58,20 @@ namespace CapaPresentacion
             this.TablaHistorial.EnableHeadersVisualStyles = false;
             this.TablaHistorial.HeaderBgColor = System.Drawing.Color.SeaGreen;
             this.TablaHistorial.HeaderForeColor = System.Drawing.Color.SeaGreen;
-            this.TablaHistorial.Location = new System.Drawing.Point(48, 114);
+            this.TablaHistorial.Location = new System.Drawing.Point(28, 33);
             this.TablaHistorial.Name = "TablaHistorial";
             this.TablaHistorial.ReadOnly = true;
             this.TablaHistorial.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
             this.TablaHistorial.RowHeadersWidth = 51;
             this.TablaHistorial.RowTemplate.Height = 24;
-            this.TablaHistorial.Size = new System.Drawing.Size(583, 258);
+            this.TablaHistorial.Size = new System.Drawing.Size(566, 258);
             this.TablaHistorial.TabIndex = 0;
             this.TablaHistorial.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.TablaHistorial_CellClick);
             // 
             // button1
             // 
             this.button1.DialogResult = System.Windows.Forms.DialogResult.OK;
-            this.button1.Location = new System.Drawing.Point(290, 398);
+            this.button1.Location = new System.Drawing.Point(223, 308);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(137, 59);
             this.button1.TabIndex = 1;
@@ -81,26 +79,11 @@ namespace CapaPresentacion
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // bunifuTextbox1
-            // 
-            this.bunifuTextbox1.BackColor = System.Drawing.Color.Silver;
-            this.bunifuTextbox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuTextbox1.BackgroundImage")));
-            this.bunifuTextbox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.bunifuTextbox1.ForeColor = System.Drawing.Color.SeaGreen;
-            this.bunifuTextbox1.Icon = ((System.Drawing.Image)(resources.GetObject("bunifuTextbox1.Icon")));
-            this.bunifuTextbox1.Location = new System.Drawing.Point(48, 39);
-            this.bunifuTextbox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.bunifuTextbox1.Name = "bunifuTextbox1";
-            this.bunifuTextbox1.Size = new System.Drawing.Size(583, 52);
-            this.bunifuTextbox1.TabIndex = 2;
-            this.bunifuTextbox1.text = "Bunifu TextBox";
-            // 
             // FrmHistorialEstudianteTutoria
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(676, 486);
-            this.Controls.Add(this.bunifuTextbox1);
+            this.ClientSize = new System.Drawing.Size(620, 389);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.TablaHistorial);
             this.Name = "FrmHistorialEstudianteTutoria";
@@ -113,7 +96,6 @@ namespace CapaPresentacion
 
         #endregion
         private System.Windows.Forms.Button button1;
-        private Bunifu.Framework.UI.BunifuTextbox bunifuTextbox1;
         public Bunifu.Framework.UI.BunifuCustomDataGrid TablaHistorial;
     }
 }
