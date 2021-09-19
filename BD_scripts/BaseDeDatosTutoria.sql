@@ -413,4 +413,4 @@ as
 	where Apellidos like @BUSCAR + '%' or  Nombres like @BUSCAR + '%'
 go
 --crear procedimiento para listar a los alumnos de 1 tutor es especifico
-select * from Estudiante
+select * from Estudiante 

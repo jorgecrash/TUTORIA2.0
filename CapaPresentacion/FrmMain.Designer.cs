@@ -109,7 +109,7 @@ namespace CapaPresentacion
             this.btnEstudiantes.IconZoom = 70D;
             this.btnEstudiantes.IsTab = false;
             this.btnEstudiantes.Location = new System.Drawing.Point(13, 25);
-            this.btnEstudiantes.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnEstudiantes.Margin = new System.Windows.Forms.Padding(4);
             this.btnEstudiantes.Name = "btnEstudiantes";
             this.btnEstudiantes.Normalcolor = System.Drawing.Color.Maroon;
             this.btnEstudiantes.OnHovercolor = System.Drawing.Color.Maroon;
@@ -150,7 +150,7 @@ namespace CapaPresentacion
             this.btnDocentes.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.btnDocentes.IsTab = false;
             this.btnDocentes.Location = new System.Drawing.Point(13, 85);
-            this.btnDocentes.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnDocentes.Margin = new System.Windows.Forms.Padding(4);
             this.btnDocentes.Name = "btnDocentes";
             this.btnDocentes.Normalcolor = System.Drawing.Color.Maroon;
             this.btnDocentes.OnHovercolor = System.Drawing.Color.Maroon;
@@ -190,7 +190,7 @@ namespace CapaPresentacion
             this.btnTutoria.IconZoom = 70D;
             this.btnTutoria.IsTab = false;
             this.btnTutoria.Location = new System.Drawing.Point(13, 144);
-            this.btnTutoria.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnTutoria.Margin = new System.Windows.Forms.Padding(4);
             this.btnTutoria.Name = "btnTutoria";
             this.btnTutoria.Normalcolor = System.Drawing.Color.Maroon;
             this.btnTutoria.OnHovercolor = System.Drawing.Color.Maroon;
@@ -230,7 +230,7 @@ namespace CapaPresentacion
             this.btnTutorados.IconZoom = 70D;
             this.btnTutorados.IsTab = false;
             this.btnTutorados.Location = new System.Drawing.Point(13, 204);
-            this.btnTutorados.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnTutorados.Margin = new System.Windows.Forms.Padding(4);
             this.btnTutorados.Name = "btnTutorados";
             this.btnTutorados.Normalcolor = System.Drawing.Color.Maroon;
             this.btnTutorados.OnHovercolor = System.Drawing.Color.Maroon;
@@ -270,7 +270,7 @@ namespace CapaPresentacion
             this.btnFicha.IconZoom = 68D;
             this.btnFicha.IsTab = false;
             this.btnFicha.Location = new System.Drawing.Point(13, 266);
-            this.btnFicha.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnFicha.Margin = new System.Windows.Forms.Padding(4);
             this.btnFicha.Name = "btnFicha";
             this.btnFicha.Normalcolor = System.Drawing.Color.Maroon;
             this.btnFicha.OnHovercolor = System.Drawing.Color.Maroon;
@@ -434,7 +434,7 @@ namespace CapaPresentacion
             // 
             // Wrapper
             // 
-            this.Wrapper.BackColor = System.Drawing.SystemColors.Control;
+            this.Wrapper.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(212)))), ((int)(((byte)(212)))), ((int)(((byte)(212)))));
             this.Wrapper.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Wrapper.Location = new System.Drawing.Point(244, 25);
             this.Wrapper.Name = "Wrapper";
@@ -466,7 +466,7 @@ namespace CapaPresentacion
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(132)))), ((int)(((byte)(132)))), ((int)(((byte)(132)))));
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(212)))), ((int)(((byte)(212)))), ((int)(((byte)(212)))));
             this.panel1.Controls.Add(this.btnNormal);
             this.panel1.Controls.Add(this.btnMaximized);
             this.panel1.Controls.Add(this.btnMinimizar);
