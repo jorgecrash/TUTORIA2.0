@@ -49,10 +49,11 @@ namespace CapaPresentacion
             // 
             this.groupBox1.Controls.Add(this.tablaBuscarTutoriaEstudiante);
             this.groupBox1.Controls.Add(this.txtBuscarTutoriaEstudiante);
+            this.groupBox1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.groupBox1.Location = new System.Drawing.Point(11, 44);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(2);
             this.groupBox1.Size = new System.Drawing.Size(505, 271);
             this.groupBox1.TabIndex = 3;
             this.groupBox1.TabStop = false;
@@ -63,7 +64,7 @@ namespace CapaPresentacion
             this.tablaBuscarTutoriaEstudiante.AllowUserToDeleteRows = false;
             dataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.tablaBuscarTutoriaEstudiante.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
-            this.tablaBuscarTutoriaEstudiante.BackgroundColor = System.Drawing.Color.Gainsboro;
+            this.tablaBuscarTutoriaEstudiante.BackgroundColor = System.Drawing.Color.Snow;
             this.tablaBuscarTutoriaEstudiante.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.tablaBuscarTutoriaEstudiante.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
             dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
@@ -79,15 +80,15 @@ namespace CapaPresentacion
             this.tablaBuscarTutoriaEstudiante.EnableHeadersVisualStyles = false;
             this.tablaBuscarTutoriaEstudiante.HeaderBgColor = System.Drawing.Color.SeaGreen;
             this.tablaBuscarTutoriaEstudiante.HeaderForeColor = System.Drawing.Color.SeaGreen;
-            this.tablaBuscarTutoriaEstudiante.Location = new System.Drawing.Point(11, 78);
-            this.tablaBuscarTutoriaEstudiante.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tablaBuscarTutoriaEstudiante.Location = new System.Drawing.Point(11, 62);
+            this.tablaBuscarTutoriaEstudiante.Margin = new System.Windows.Forms.Padding(2);
             this.tablaBuscarTutoriaEstudiante.Name = "tablaBuscarTutoriaEstudiante";
             this.tablaBuscarTutoriaEstudiante.ReadOnly = true;
             this.tablaBuscarTutoriaEstudiante.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
             this.tablaBuscarTutoriaEstudiante.RowHeadersWidth = 51;
             this.tablaBuscarTutoriaEstudiante.RowTemplate.Height = 24;
             this.tablaBuscarTutoriaEstudiante.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.tablaBuscarTutoriaEstudiante.Size = new System.Drawing.Size(476, 176);
+            this.tablaBuscarTutoriaEstudiante.Size = new System.Drawing.Size(490, 205);
             this.tablaBuscarTutoriaEstudiante.TabIndex = 1;
             this.tablaBuscarTutoriaEstudiante.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.tablaBuscarTutoriaEstudiante_CellClick);
             this.tablaBuscarTutoriaEstudiante.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.tablaBuscarTutoriaEstudiante_CellContentClick);
@@ -109,7 +110,7 @@ namespace CapaPresentacion
             // 
             // panel1
             // 
-            this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel1.BackColor = System.Drawing.Color.WhiteSmoke;
             this.panel1.Controls.Add(this.panel2);
             this.panel1.Controls.Add(this.groupBox1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -120,11 +121,12 @@ namespace CapaPresentacion
             // 
             // panel2
             // 
+            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(212)))), ((int)(((byte)(212)))), ((int)(((byte)(212)))));
             this.panel2.Controls.Add(this.btnSalir);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(532, 24);
+            this.panel2.Size = new System.Drawing.Size(534, 24);
             this.panel2.TabIndex = 5;
             // 
             // btnSalir
@@ -144,8 +146,9 @@ namespace CapaPresentacion
             this.ClientSize = new System.Drawing.Size(534, 344);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "FrmBuscarEstudianteTutoria";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmBuscarEstudianteTutoria";
             this.Load += new System.EventHandler(this.FrmBuscarEstudianteTutoria_Load);
             this.groupBox1.ResumeLayout(false);
