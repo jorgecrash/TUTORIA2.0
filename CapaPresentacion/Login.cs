@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.Configuration;
+using CapaEntidades.Cache;
 
 namespace CapaPresentacion
 {
@@ -24,17 +25,18 @@ namespace CapaPresentacion
 
         }
         FrmMain M = new FrmMain();
-   
+        FrmWelcome F = new FrmWelcome();
         public  bool logins(string user, string clav)
         {
+            
             SqlConnection conexion = new SqlConnection(ConfigurationManager.ConnectionStrings["conectar"].ConnectionString);
             try
             {
                 conexion.Open();
                 SqlCommand cmd = new SqlCommand("SELECT * from Logins  WHERE Usuario=@Usuario AND Contraseña=@Contraseña", conexion);
-
                 cmd.Parameters.AddWithValue("Usuario", user);
                 cmd.Parameters.AddWithValue("Contraseña", clav);
+                cmd.CommandType = CommandType.Text;
                 SqlDataAdapter sda = new SqlDataAdapter(cmd);
                 DataTable dt = new DataTable();
                 sda.Fill(dt);
@@ -43,6 +45,7 @@ namespace CapaPresentacion
                     // this.Hide();
                     MessageBox.Show("Login exitoso.");
                     // FrmFicha F = new FrmFicha();
+                    F.NombreUsuario.Text = dt.Rows[0][0].ToString();
 
                     M.labelUsuario.Text = txtusuario.Text;
                     M.labelCategoriaU.Text = dt.Rows[0][2].ToString();
@@ -81,7 +84,7 @@ namespace CapaPresentacion
             catch (Exception ex)
             {
                 MessageBox.Show(ex.ToString());
-              //  conexion.Close();
+                conexion.Close();
                 return false;
 
             }
@@ -148,6 +151,7 @@ namespace CapaPresentacion
             {
                
                 this.Hide();
+                F.ShowDialog();
                 M.ShowDialog();
             }
             
@@ -214,6 +218,16 @@ namespace CapaPresentacion
         }
 
         private void labelContraseña_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtusuario_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelUsuario_Click(object sender, EventArgs e)
         {
 
         }

@@ -167,6 +167,7 @@ namespace CapaPresentacion
             EjecutarSelect(Consulta);
             Datos = ValorAtributo("CategoriaLogin");
             return Datos;
+
         }
         public bool ValidarAcceso()
         {
@@ -304,6 +305,16 @@ namespace CapaPresentacion
         }
 
         private void Wrapper_Paint_1(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void labelUsuario_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelCategoriaU_Click(object sender, EventArgs e)
         {
 
         }
