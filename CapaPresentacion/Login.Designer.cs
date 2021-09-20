@@ -63,6 +63,7 @@ namespace CapaPresentacion
             // bunifuElipse3
             // 
             this.bunifuElipse3.ElipseRadius = 11;
+            this.bunifuElipse3.TargetControl = this;
             // 
             // panel1
             // 
@@ -103,6 +104,10 @@ namespace CapaPresentacion
             this.pictureBox3.Image = global::CapaPresentacion.Properties.Resources.LL;
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.TabStop = false;
+            // 
+            // gunaElipse2
+            // 
+            this.gunaElipse2.TargetControl = this;
             // 
             // gunaElipse3
             // 

@@ -107,16 +107,6 @@ namespace CapaPresentacion
             return usuario;
         }
 
-        private void panel3_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void label1_Click(object sender, EventArgs e)
         {
 
@@ -161,11 +151,6 @@ namespace CapaPresentacion
         {
 
         }
-
-        private void lblError_Click(object sender, EventArgs e)
-        {
-
-        }
         private void pictureBox2_MouseDown(object sender, MouseEventArgs e)
         {
             m = 1;
@@ -179,40 +164,10 @@ namespace CapaPresentacion
 
         private void txtcontraseña_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (e.KeyChar == Convert.ToChar(Keys.Enter))
-            {
-                usuario = txtusuario.Text;
-                clave = txtcontraseña.Text;
-                bool v = logins(usuario, clave);
-            }
-            else if (e.KeyChar == Convert.ToChar(Keys.Escape))
-            {
-                Application.Exit();
-            }
+
         }
 
         private void txtusuario_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            if (e.KeyChar == Convert.ToChar(Keys.Enter))
-            {
-                usuario = txtusuario.Text;
-                clave = txtcontraseña.Text;
-                bool v = logins(usuario, clave);
-                txtcontraseña.Focus();
-            }
-            else if(e.KeyChar == Convert.ToChar(Keys.Escape))
-            {
-                Application.Exit();
-            }
-
-        }
-
-        private void txtusuario_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtcontraseña_TextChanged(object sender, EventArgs e)
         {
 
         }
