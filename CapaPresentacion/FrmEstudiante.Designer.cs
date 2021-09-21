@@ -262,6 +262,7 @@ namespace CapaPresentacion
             this.Salir.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.Salir.BackColor = System.Drawing.Color.Transparent;
             this.Salir.Cursor = System.Windows.Forms.Cursors.Hand;
+
             this.Salir.Image = global::CapaPresentacion.Properties.Resources.cerrar;
             this.Salir.Location = new System.Drawing.Point(995, 0);
             this.Salir.Name = "Salir";

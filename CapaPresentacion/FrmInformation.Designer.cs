@@ -35,11 +35,11 @@ namespace CapaPresentacion
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
             this.label2 = new System.Windows.Forms.Label();
-            this.bunifuElipse1 = new Bunifu.Framework.UI.BunifuElipse(this.components);
-            this.gunaElipse1 = new Guna.UI.WinForms.GunaElipse(this.components);
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnCancel = new System.Windows.Forms.PictureBox();
             this.btnOk = new Bunifu.Framework.UI.BunifuFlatButton();
+            this.bunifuElipse1 = new Bunifu.Framework.UI.BunifuElipse(this.components);
+            this.gunaElipse1 = new Guna.UI.WinForms.GunaElipse(this.components);
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -71,7 +71,7 @@ namespace CapaPresentacion
             // 
             // panel2
             // 
-            this.panel2.BackColor = System.Drawing.Color.Maroon;
+            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(81)))), ((int)(((byte)(124)))), ((int)(((byte)(155)))));
             this.panel2.Controls.Add(this.label2);
             this.panel2.Controls.Add(this.pictureBox1);
             this.panel2.Controls.Add(this.btnCancel);
@@ -91,16 +91,6 @@ namespace CapaPresentacion
             this.label2.TabIndex = 10;
             this.label2.Text = "¡CUIDADO!";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // bunifuElipse1
-            // 
-            this.bunifuElipse1.ElipseRadius = 0;
-            this.bunifuElipse1.TargetControl = this;
-            // 
-            // gunaElipse1
-            // 
-            this.gunaElipse1.Radius = 0;
-            this.gunaElipse1.TargetControl = this;
             // 
             // pictureBox1
             // 
@@ -126,7 +116,7 @@ namespace CapaPresentacion
             // btnOk
             // 
             this.btnOk.Activecolor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(139)))), ((int)(((byte)(87)))));
-            this.btnOk.BackColor = System.Drawing.Color.SeaGreen;
+            this.btnOk.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(139)))), ((int)(((byte)(87)))));
             this.btnOk.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.btnOk.BorderRadius = 5;
             this.btnOk.ButtonText = "Aceptar";
@@ -157,6 +147,16 @@ namespace CapaPresentacion
             this.btnOk.Textcolor = System.Drawing.Color.White;
             this.btnOk.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnOk.Click += new System.EventHandler(this.btnOk_Click);
+            // 
+            // bunifuElipse1
+            // 
+            this.bunifuElipse1.ElipseRadius = 0;
+            this.bunifuElipse1.TargetControl = this;
+            // 
+            // gunaElipse1
+            // 
+            this.gunaElipse1.Radius = 0;
+            this.gunaElipse1.TargetControl = this;
             // 
             // FrmInformation
             // 

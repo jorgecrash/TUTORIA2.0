@@ -314,7 +314,7 @@ namespace CapaPresentacion
             // 
             // Sidebar
             // 
-            this.Sidebar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(81)))), ((int)(((byte)(124)))), ((int)(((byte)(155)))));
+            this.Sidebar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(8)))), ((int)(((byte)(49)))), ((int)(((byte)(66)))));
             this.Sidebar.Controls.Add(this.panel4);
             this.Sidebar.Controls.Add(this.panel3);
             this.Sidebar.Controls.Add(this.labelCategoriaU);
@@ -351,24 +351,26 @@ namespace CapaPresentacion
             // labelCategoriaU
             // 
             this.labelCategoriaU.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.labelCategoriaU.ForeColor = System.Drawing.Color.Black;
+            this.labelCategoriaU.ForeColor = System.Drawing.Color.White;
             this.labelCategoriaU.Location = new System.Drawing.Point(67, 196);
             this.labelCategoriaU.Name = "labelCategoriaU";
             this.labelCategoriaU.Size = new System.Drawing.Size(109, 23);
             this.labelCategoriaU.TabIndex = 8;
             this.labelCategoriaU.Text = "Categoria";
             this.labelCategoriaU.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.labelCategoriaU.Click += new System.EventHandler(this.labelCategoriaU_Click);
             // 
             // labelUsuario
             // 
             this.labelUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.labelUsuario.ForeColor = System.Drawing.Color.Black;
+            this.labelUsuario.ForeColor = System.Drawing.Color.White;
             this.labelUsuario.Location = new System.Drawing.Point(63, 162);
             this.labelUsuario.Name = "labelUsuario";
             this.labelUsuario.Size = new System.Drawing.Size(109, 23);
             this.labelUsuario.TabIndex = 5;
             this.labelUsuario.Text = "USUARIO1";
             this.labelUsuario.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.labelUsuario.Click += new System.EventHandler(this.labelUsuario_Click);
             // 
             // pictureBox1
             // 
@@ -434,7 +436,7 @@ namespace CapaPresentacion
             // 
             // Wrapper
             // 
-            this.Wrapper.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(212)))), ((int)(((byte)(212)))), ((int)(((byte)(212)))));
+            this.Wrapper.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.Wrapper.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Wrapper.Location = new System.Drawing.Point(244, 25);
             this.Wrapper.Name = "Wrapper";
