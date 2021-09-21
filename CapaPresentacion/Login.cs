@@ -162,16 +162,6 @@ namespace CapaPresentacion
 
         }
 
-        private void txtcontraseña_KeyPress(object sender, KeyPressEventArgs e)
-        {
-
-        }
-
-        private void txtusuario_KeyPress(object sender, KeyPressEventArgs e)
-        {
-
-        }
-
         private void labelContraseña_Click(object sender, EventArgs e)
         {
 
@@ -183,6 +173,11 @@ namespace CapaPresentacion
         }
 
         private void labelUsuario_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblError_Click(object sender, EventArgs e)
         {
 
         }
