@@ -124,12 +124,12 @@ C:\Users\angel\Source\Repos\jorgecrash\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.
 C:\Users\angel\Source\Repos\jorgecrash\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
 C:\Users\angel\Source\Repos\jorgecrash\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\angel\Source\Repos\jorgecrash\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.pdb
-D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaDatos\bin\Debug\CapaDatos.dll
-D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaDatos\bin\Debug\CapaDatos.pdb
-D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaDatos\bin\Debug\CapaEntidades.dll
-D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaDatos\bin\Debug\CapaEntidades.pdb
-D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
-D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
-D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
-D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.dll
-D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaDatos\bin\Debug\CapaDatos.dll
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.dll
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.pdb
