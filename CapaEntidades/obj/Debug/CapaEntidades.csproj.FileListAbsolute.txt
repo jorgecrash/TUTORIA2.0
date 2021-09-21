@@ -76,3 +76,9 @@ C:\Users\angel\Source\Repos\jorgecrash\TUTORIA2.0\CapaEntidades\obj\Debug\CapaEn
 C:\Users\angel\Source\Repos\jorgecrash\TUTORIA2.0\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
 C:\Users\angel\Source\Repos\jorgecrash\TUTORIA2.0\CapaEntidades\obj\Debug\CapaEntidades.dll
 C:\Users\angel\Source\Repos\jorgecrash\TUTORIA2.0\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaEntidades\obj\Debug\CapaEntidades.pdb

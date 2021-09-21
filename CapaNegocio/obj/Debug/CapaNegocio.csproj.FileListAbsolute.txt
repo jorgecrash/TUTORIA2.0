@@ -152,3 +152,14 @@ C:\Users\angel\Source\Repos\jorgecrash\TUTORIA2.0\CapaNegocio\obj\Debug\CapaNego
 C:\Users\angel\Source\Repos\jorgecrash\TUTORIA2.0\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
 C:\Users\angel\Source\Repos\jorgecrash\TUTORIA2.0\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\angel\Source\Repos\jorgecrash\TUTORIA2.0\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaNegocio\bin\Debug\CapaEntidades.dll
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaNegocio\bin\Debug\CapaEntidades.pdb
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaNegocio\obj\Debug\CapaNegocio.pdb
