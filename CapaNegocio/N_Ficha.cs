@@ -55,5 +55,10 @@ namespace CapaNegocio
         {
             data.DeleteFicha(Id);
         }
+
+        public string New()
+        {
+            return data.Nuevo();
+        }
     }
 }

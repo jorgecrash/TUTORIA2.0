@@ -72,6 +72,7 @@ namespace CapaPresentacion
             this.btnLimpiar = new System.Windows.Forms.Button();
             this.btnGuardar = new Bunifu.Framework.UI.BunifuFlatButton();
             this.pictureBox9 = new System.Windows.Forms.PictureBox();
+            this.btnNuevo = new System.Windows.Forms.Button();
             this.topFormularioF.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -363,7 +364,9 @@ namespace CapaPresentacion
             // 
             // textId
             // 
+            this.textId.BackColor = System.Drawing.Color.White;
             this.textId.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textId.Enabled = false;
             this.textId.Location = new System.Drawing.Point(86, 68);
             this.textId.Margin = new System.Windows.Forms.Padding(5);
             this.textId.Name = "textId";
@@ -372,7 +375,7 @@ namespace CapaPresentacion
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(358, 788);
+            this.button1.Location = new System.Drawing.Point(243, 792);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(143, 50);
             this.button1.TabIndex = 99;
@@ -517,9 +520,9 @@ namespace CapaPresentacion
             // 
             // btnLimpiar
             // 
-            this.btnLimpiar.Location = new System.Drawing.Point(73, 790);
+            this.btnLimpiar.Location = new System.Drawing.Point(52, 791);
             this.btnLimpiar.Name = "btnLimpiar";
-            this.btnLimpiar.Size = new System.Drawing.Size(175, 47);
+            this.btnLimpiar.Size = new System.Drawing.Size(153, 51);
             this.btnLimpiar.TabIndex = 103;
             this.btnLimpiar.Text = "Limpiar";
             this.btnLimpiar.UseVisualStyleBackColor = true;
@@ -572,11 +575,22 @@ namespace CapaPresentacion
             this.pictureBox9.TabIndex = 98;
             this.pictureBox9.TabStop = false;
             // 
+            // btnNuevo
+            // 
+            this.btnNuevo.Location = new System.Drawing.Point(427, 791);
+            this.btnNuevo.Name = "btnNuevo";
+            this.btnNuevo.Size = new System.Drawing.Size(126, 50);
+            this.btnNuevo.TabIndex = 104;
+            this.btnNuevo.Text = "Nuevo";
+            this.btnNuevo.UseVisualStyleBackColor = true;
+            this.btnNuevo.Click += new System.EventHandler(this.btnNuevo_Click);
+            // 
             // FrmMantFicha
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(867, 850);
+            this.Controls.Add(this.btnNuevo);
             this.Controls.Add(this.btnLimpiar);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
@@ -653,5 +667,6 @@ namespace CapaPresentacion
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.Button btnLimpiar;
+        private System.Windows.Forms.Button btnNuevo;
     }
 }

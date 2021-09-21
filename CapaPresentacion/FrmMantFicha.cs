@@ -236,5 +236,11 @@ namespace CapaPresentacion
         {
 
         }
+
+        private void btnNuevo_Click(object sender, EventArgs e)
+        {
+            N_Ficha oFicha = new N_Ficha();
+            textId.Text = oFicha.New().ToString();
+        }
     }
 }
