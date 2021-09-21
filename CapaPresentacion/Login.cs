@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.Configuration;
+using CapaEntidades.Cache;
 
 namespace CapaPresentacion
 {
@@ -24,17 +25,18 @@ namespace CapaPresentacion
 
         }
         FrmMain M = new FrmMain();
-   
+        FrmWelcome F = new FrmWelcome();
         public  bool logins(string user, string clav)
         {
+            
             SqlConnection conexion = new SqlConnection(ConfigurationManager.ConnectionStrings["conectar"].ConnectionString);
             try
             {
                 conexion.Open();
                 SqlCommand cmd = new SqlCommand("SELECT * from Logins  WHERE Usuario=@Usuario AND Contraseña=@Contraseña", conexion);
-
                 cmd.Parameters.AddWithValue("Usuario", user);
                 cmd.Parameters.AddWithValue("Contraseña", clav);
+                cmd.CommandType = CommandType.Text;
                 SqlDataAdapter sda = new SqlDataAdapter(cmd);
                 DataTable dt = new DataTable();
                 sda.Fill(dt);
@@ -43,6 +45,7 @@ namespace CapaPresentacion
                     // this.Hide();
                     MessageBox.Show("Login exitoso.");
                     // FrmFicha F = new FrmFicha();
+                    F.NombreUsuario.Text = dt.Rows[0][0].ToString();
 
                     M.labelUsuario.Text = txtusuario.Text;
                     M.labelCategoriaU.Text = dt.Rows[0][2].ToString();
@@ -81,7 +84,7 @@ namespace CapaPresentacion
             catch (Exception ex)
             {
                 MessageBox.Show(ex.ToString());
-              //  conexion.Close();
+                conexion.Close();
                 return false;
 
             }
@@ -102,16 +105,6 @@ namespace CapaPresentacion
         {
             usuario = txtusuario.Text;
             return usuario;
-        }
-
-        private void panel3_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -148,17 +141,13 @@ namespace CapaPresentacion
             {
                
                 this.Hide();
+                F.ShowDialog();
                 M.ShowDialog();
             }
             
         }
         
         private void panel2_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void lblError_Click(object sender, EventArgs e)
         {
 
         }
@@ -173,47 +162,22 @@ namespace CapaPresentacion
 
         }
 
-        private void txtcontraseña_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            if (e.KeyChar == Convert.ToChar(Keys.Enter))
-            {
-                usuario = txtusuario.Text;
-                clave = txtcontraseña.Text;
-                bool v = logins(usuario, clave);
-            }
-            else if (e.KeyChar == Convert.ToChar(Keys.Escape))
-            {
-                Application.Exit();
-            }
-        }
-
-        private void txtusuario_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            if (e.KeyChar == Convert.ToChar(Keys.Enter))
-            {
-                usuario = txtusuario.Text;
-                clave = txtcontraseña.Text;
-                bool v = logins(usuario, clave);
-                txtcontraseña.Focus();
-            }
-            else if(e.KeyChar == Convert.ToChar(Keys.Escape))
-            {
-                Application.Exit();
-            }
-
-        }
-
-        private void txtusuario_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtcontraseña_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void labelContraseña_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtusuario_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelUsuario_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblError_Click(object sender, EventArgs e)
         {
 
         }

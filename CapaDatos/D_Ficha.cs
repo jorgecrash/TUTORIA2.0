@@ -148,6 +148,20 @@ namespace CapaDatos
             cmd.ExecuteNonQuery();
             conexion.Close();
         }
+        //nuevo
+
+        public string Nuevo()
+        {
+            string codigo;
+            SqlCommand cmd = new SqlCommand("NuevoFichaTutoria", conexion);
+            cmd.CommandType= CommandType.StoredProcedure;
+            conexion.Open();
+            cmd.CommandTimeout = 30;
+            SqlCommandBuilder.DeriveParameters(cmd);
+            cmd.ExecuteNonQuery();
+            conexion.Close();
+            return (string)cmd.Parameters["@RETURN_VALUE"].Value;
+        }
 
     }
 }

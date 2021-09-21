@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cache\UserLoginCache.cs" />
     <Compile Include="E_Docente.cs" />
     <Compile Include="E_Estudiante.cs" />
     <Compile Include="E_Ficha.cs" />
@@ -48,5 +49,6 @@
     <Compile Include="E_Tutoria.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
