@@ -481,5 +481,23 @@
   <ItemGroup>
     <None Include="Resources\pngegg %2817%29.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estudiante-con-gorro-de-graduacion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estudiante-con-gorro-de-graduacion1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elearning1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profesor-en-la-pizarra%280,44_0,66%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profesor-en-la-pizarra%280,44_0,66%291.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
