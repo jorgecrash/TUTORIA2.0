@@ -142,6 +142,9 @@
   <data name="cerrar" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cerrar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="dos-usuarios_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dos-usuarios_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Imagen17" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Imagen17.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -178,8 +181,8 @@
   <data name="clos1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\clos1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="logo (2)_sin fondo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logo (2)_sin fondo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="163809372_3937792012970771_1511004919839933106_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\163809372_3937792012970771_1511004919839933106_n.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Imagen16" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Imagen16.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -241,6 +244,9 @@
   <data name="Imagen10" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Imagen10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="archivos-y-carpetas (1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\archivos-y-carpetas (1_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Imagen_fondo blanco" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Imagen_fondo blanco.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -255,6 +261,12 @@
   </data>
   <data name="Imagen101" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Imagen101.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="discusion_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\discusion_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="profesor-en-la-pizarra(0,44_0,66)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\profesor-en-la-pizarra(0,44_0,66)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ezgif_com_gif_maker__3_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ezgif.com-gif-maker (3).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -295,14 +307,14 @@
   <data name="estudiante-con-gorro-de-graduacion1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\estudiante-con-gorro-de-graduacion1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="163809372_3937792012970771_1511004919839933106_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\163809372_3937792012970771_1511004919839933106_n.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Imagen14" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Imagen14.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pngwing.com" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngwing.com.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo (2)_sin fondo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo (2)_sin fondo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pngegg (24)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngegg (24).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -325,7 +337,7 @@
   <data name="Imagen2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Imagen2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="profesor-en-la-pizarra(0,44_0,66)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\profesor-en-la-pizarra(0,44_0,66)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="profesor-en-la-pizarra(0,44_0,66)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\profesor-en-la-pizarra(0,44_0,66)2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

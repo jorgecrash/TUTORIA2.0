@@ -499,5 +499,17 @@
   <ItemGroup>
     <None Include="Resources\profesor-en-la-pizarra%280,44_0,66%291.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\discusion_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dos-usuarios_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\archivos-y-carpetas %281_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profesor-en-la-pizarra%280,44_0,66%292.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

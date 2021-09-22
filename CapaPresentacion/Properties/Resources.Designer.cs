@@ -83,6 +83,16 @@ namespace CapaPresentacion.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap archivos_y_carpetas__1_ {
+            get {
+                object obj = ResourceManager.GetObject("archivos-y-carpetas (1_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap cerrar {
             get {
                 object obj = ResourceManager.GetObject("cerrar", resourceCulture);
@@ -156,6 +166,26 @@ namespace CapaPresentacion.Properties {
         internal static System.Drawing.Bitmap descarga__1_ {
             get {
                 object obj = ResourceManager.GetObject("descarga (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap discusion_1 {
+            get {
+                object obj = ResourceManager.GetObject("discusion_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap dos_usuarios_1 {
+            get {
+                object obj = ResourceManager.GetObject("dos-usuarios_1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -716,6 +746,16 @@ namespace CapaPresentacion.Properties {
         internal static System.Drawing.Bitmap profesor_en_la_pizarra_0_44_0_66_ {
             get {
                 object obj = ResourceManager.GetObject("profesor-en-la-pizarra(0,44_0,66)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap profesor_en_la_pizarra_0_44_0_66_1 {
+            get {
+                object obj = ResourceManager.GetObject("profesor-en-la-pizarra(0,44_0,66)1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
