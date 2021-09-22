@@ -72,6 +72,7 @@ namespace CapaPresentacion
             this.btnLimpiar = new System.Windows.Forms.Button();
             this.btnGuardar = new Bunifu.Framework.UI.BunifuFlatButton();
             this.pictureBox9 = new System.Windows.Forms.PictureBox();
+            this.btnNuevo = new System.Windows.Forms.Button();
             this.topFormularioF.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -372,7 +373,7 @@ namespace CapaPresentacion
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(357, 788);
+            this.button1.Location = new System.Drawing.Point(378, 800);
             this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(143, 50);
@@ -523,10 +524,10 @@ namespace CapaPresentacion
             // 
             // btnLimpiar
             // 
-            this.btnLimpiar.Location = new System.Drawing.Point(73, 790);
+            this.btnLimpiar.Location = new System.Drawing.Point(41, 800);
             this.btnLimpiar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnLimpiar.Name = "btnLimpiar";
-            this.btnLimpiar.Size = new System.Drawing.Size(175, 47);
+            this.btnLimpiar.Size = new System.Drawing.Size(126, 47);
             this.btnLimpiar.TabIndex = 103;
             this.btnLimpiar.Text = "Limpiar";
             this.btnLimpiar.UseVisualStyleBackColor = true;
@@ -579,11 +580,22 @@ namespace CapaPresentacion
             this.pictureBox9.TabIndex = 98;
             this.pictureBox9.TabStop = false;
             // 
+            // btnNuevo
+            // 
+            this.btnNuevo.Location = new System.Drawing.Point(212, 806);
+            this.btnNuevo.Name = "btnNuevo";
+            this.btnNuevo.Size = new System.Drawing.Size(112, 44);
+            this.btnNuevo.TabIndex = 104;
+            this.btnNuevo.Text = "Nuevo";
+            this.btnNuevo.UseVisualStyleBackColor = true;
+            this.btnNuevo.Click += new System.EventHandler(this.btnNuevo_Click_1);
+            // 
             // FrmMantFicha
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(867, 878);
+            this.Controls.Add(this.btnNuevo);
             this.Controls.Add(this.btnLimpiar);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
@@ -660,5 +672,6 @@ namespace CapaPresentacion
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.Button btnLimpiar;
+        private System.Windows.Forms.Button btnNuevo;
     }
 }
