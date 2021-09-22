@@ -271,7 +271,6 @@ namespace CapaPresentacion
             this.btnNormal.Location = new System.Drawing.Point(746, 5);
             this.btnNormal.Name = "btnNormal";
             this.btnNormal.Size = new System.Drawing.Size(17, 20);
-            this.btnNormal.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.btnNormal.TabIndex = 3;
             this.btnNormal.TabStop = false;
             this.btnNormal.Visible = false;
@@ -299,7 +298,6 @@ namespace CapaPresentacion
             this.btnMinimizar.Location = new System.Drawing.Point(723, 5);
             this.btnMinimizar.Name = "btnMinimizar";
             this.btnMinimizar.Size = new System.Drawing.Size(17, 20);
-            this.btnMinimizar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.btnMinimizar.TabIndex = 2;
             this.btnMinimizar.TabStop = false;
             this.btnMinimizar.Click += new System.EventHandler(this.btnMinimizar_Click);
@@ -312,7 +310,6 @@ namespace CapaPresentacion
             this.Salir.Location = new System.Drawing.Point(769, 5);
             this.Salir.Name = "Salir";
             this.Salir.Size = new System.Drawing.Size(17, 20);
-            this.Salir.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.Salir.TabIndex = 2;
             this.Salir.TabStop = false;
             this.Salir.Click += new System.EventHandler(this.Salir_Click);
