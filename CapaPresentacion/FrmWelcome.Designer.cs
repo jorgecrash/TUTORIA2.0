@@ -35,15 +35,15 @@ namespace CapaPresentacion
             this.label3 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.ProgressBa = new System.Windows.Forms.ProgressBar();
+            this.NombreUsuario = new System.Windows.Forms.Label();
             this.ProgressBar = new System.Windows.Forms.Panel();
             this.label2 = new System.Windows.Forms.Label();
-            this.NombreUsuario = new System.Windows.Forms.Label();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.gunaTransfarantPictureBox1 = new Guna.UI.WinForms.GunaTransfarantPictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.timer2 = new System.Windows.Forms.Timer(this.components);
             this.bunifuElipse1 = new Bunifu.Framework.UI.BunifuElipse(this.components);
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.gunaTransfarantPictureBox1 = new Guna.UI.WinForms.GunaTransfarantPictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel_principal.SuspendLayout();
             this.panel2.SuspendLayout();
             this.ProgressBar.SuspendLayout();
@@ -108,6 +108,18 @@ namespace CapaPresentacion
             this.ProgressBa.Size = new System.Drawing.Size(756, 10);
             this.ProgressBa.TabIndex = 7;
             // 
+            // NombreUsuario
+            // 
+            this.NombreUsuario.AutoSize = true;
+            this.NombreUsuario.BackColor = System.Drawing.Color.White;
+            this.NombreUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.NombreUsuario.ForeColor = System.Drawing.Color.Black;
+            this.NombreUsuario.Location = new System.Drawing.Point(31, 311);
+            this.NombreUsuario.Name = "NombreUsuario";
+            this.NombreUsuario.Size = new System.Drawing.Size(154, 42);
+            this.NombreUsuario.TabIndex = 4;
+            this.NombreUsuario.Text = "Usuario";
+            // 
             // ProgressBar
             // 
             this.ProgressBar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(8)))), ((int)(((byte)(49)))), ((int)(((byte)(66)))));
@@ -134,17 +146,20 @@ namespace CapaPresentacion
             this.label2.Text = "¡WELCOME!";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // NombreUsuario
+            // timer1
             // 
-            this.NombreUsuario.AutoSize = true;
-            this.NombreUsuario.BackColor = System.Drawing.Color.White;
-            this.NombreUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.NombreUsuario.ForeColor = System.Drawing.Color.Black;
-            this.NombreUsuario.Location = new System.Drawing.Point(31, 311);
-            this.NombreUsuario.Name = "NombreUsuario";
-            this.NombreUsuario.Size = new System.Drawing.Size(154, 42);
-            this.NombreUsuario.TabIndex = 4;
-            this.NombreUsuario.Text = "Usuario";
+            this.timer1.Interval = 25;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // timer2
+            // 
+            this.timer2.Interval = 25;
+            this.timer2.Tick += new System.EventHandler(this.timer2_Tick);
+            // 
+            // bunifuElipse1
+            // 
+            this.bunifuElipse1.ElipseRadius = 5;
+            this.bunifuElipse1.TargetControl = this.ProgressBa;
             // 
             // pictureBox2
             // 
@@ -179,21 +194,6 @@ namespace CapaPresentacion
             this.pictureBox1.Size = new System.Drawing.Size(349, 380);
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
-            // 
-            // timer1
-            // 
-            this.timer1.Interval = 30;
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
-            // 
-            // timer2
-            // 
-            this.timer2.Interval = 30;
-            this.timer2.Tick += new System.EventHandler(this.timer2_Tick);
-            // 
-            // bunifuElipse1
-            // 
-            this.bunifuElipse1.ElipseRadius = 5;
-            this.bunifuElipse1.TargetControl = this.ProgressBa;
             // 
             // FrmWelcome
             // 
