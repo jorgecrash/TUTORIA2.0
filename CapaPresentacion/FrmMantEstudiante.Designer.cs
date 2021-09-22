@@ -87,7 +87,7 @@ namespace CapaPresentacion
             this.topFormulario.Controls.Add(this.pictureBox1);
             this.topFormulario.Dock = System.Windows.Forms.DockStyle.Top;
             this.topFormulario.Location = new System.Drawing.Point(0, 0);
-            this.topFormulario.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.topFormulario.Margin = new System.Windows.Forms.Padding(4);
             this.topFormulario.Name = "topFormulario";
             this.topFormulario.Size = new System.Drawing.Size(1214, 44);
             this.topFormulario.TabIndex = 0;
@@ -110,7 +110,7 @@ namespace CapaPresentacion
             this.pictureBox1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(1174, 4);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(50, 37);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -162,7 +162,7 @@ namespace CapaPresentacion
             // 
             this.txtSemestreActivo.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtSemestreActivo.Location = new System.Drawing.Point(86, 199);
-            this.txtSemestreActivo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtSemestreActivo.Margin = new System.Windows.Forms.Padding(4);
             this.txtSemestreActivo.Name = "txtSemestreActivo";
             this.txtSemestreActivo.Size = new System.Drawing.Size(348, 15);
             this.txtSemestreActivo.TabIndex = 39;
@@ -171,7 +171,7 @@ namespace CapaPresentacion
             // 
             this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
             this.pictureBox8.Location = new System.Drawing.Point(65, 186);
-            this.pictureBox8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox8.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(382, 39);
             this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -208,7 +208,7 @@ namespace CapaPresentacion
             // 
             this.txtIdEP.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtIdEP.Location = new System.Drawing.Point(513, 283);
-            this.txtIdEP.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtIdEP.Margin = new System.Windows.Forms.Padding(4);
             this.txtIdEP.Name = "txtIdEP";
             this.txtIdEP.Size = new System.Drawing.Size(280, 15);
             this.txtIdEP.TabIndex = 32;
@@ -217,7 +217,7 @@ namespace CapaPresentacion
             // 
             this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
             this.pictureBox6.Location = new System.Drawing.Point(500, 271);
-            this.pictureBox6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox6.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(306, 39);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -252,7 +252,7 @@ namespace CapaPresentacion
             // 
             this.textApellidos.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textApellidos.Location = new System.Drawing.Point(521, 113);
-            this.textApellidos.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textApellidos.Margin = new System.Windows.Forms.Padding(4);
             this.textApellidos.Name = "textApellidos";
             this.textApellidos.Size = new System.Drawing.Size(272, 15);
             this.textApellidos.TabIndex = 25;
@@ -261,7 +261,7 @@ namespace CapaPresentacion
             // 
             this.textEscuela.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textEscuela.Location = new System.Drawing.Point(86, 283);
-            this.textEscuela.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textEscuela.Margin = new System.Windows.Forms.Padding(4);
             this.textEscuela.Name = "textEscuela";
             this.textEscuela.Size = new System.Drawing.Size(348, 15);
             this.textEscuela.TabIndex = 23;
@@ -270,7 +270,7 @@ namespace CapaPresentacion
             // 
             this.textNombres.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textNombres.Location = new System.Drawing.Point(86, 113);
-            this.textNombres.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textNombres.Margin = new System.Windows.Forms.Padding(4);
             this.textNombres.Name = "textNombres";
             this.textNombres.Size = new System.Drawing.Size(348, 15);
             this.textNombres.TabIndex = 21;
@@ -280,7 +280,7 @@ namespace CapaPresentacion
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
             this.pictureBox2.Location = new System.Drawing.Point(65, 101);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(382, 39);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -291,7 +291,7 @@ namespace CapaPresentacion
             // 
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
             this.pictureBox3.Location = new System.Drawing.Point(500, 101);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(306, 39);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -302,7 +302,7 @@ namespace CapaPresentacion
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
             this.pictureBox4.Location = new System.Drawing.Point(65, 271);
-            this.pictureBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(382, 39);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -313,7 +313,7 @@ namespace CapaPresentacion
             // 
             this.txtIngreso.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtIngreso.Location = new System.Drawing.Point(513, 199);
-            this.txtIngreso.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtIngreso.Margin = new System.Windows.Forms.Padding(4);
             this.txtIngreso.Name = "txtIngreso";
             this.txtIngreso.Size = new System.Drawing.Size(270, 15);
             this.txtIngreso.TabIndex = 43;
@@ -322,7 +322,7 @@ namespace CapaPresentacion
             // 
             this.pictureBox7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox7.Image")));
             this.pictureBox7.Location = new System.Drawing.Point(500, 189);
-            this.pictureBox7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox7.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(308, 39);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -359,7 +359,7 @@ namespace CapaPresentacion
             // 
             this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
             this.pictureBox5.Location = new System.Drawing.Point(64, 338);
-            this.pictureBox5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox5.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(773, 37);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -369,7 +369,7 @@ namespace CapaPresentacion
             // btnExportarCSV
             // 
             this.btnExportarCSV.Location = new System.Drawing.Point(864, 338);
-            this.btnExportarCSV.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnExportarCSV.Margin = new System.Windows.Forms.Padding(2);
             this.btnExportarCSV.Name = "btnExportarCSV";
             this.btnExportarCSV.Size = new System.Drawing.Size(172, 37);
             this.btnExportarCSV.TabIndex = 46;
@@ -380,7 +380,7 @@ namespace CapaPresentacion
             // btnGuardarDatosCSV
             // 
             this.btnGuardarDatosCSV.Location = new System.Drawing.Point(1051, 708);
-            this.btnGuardarDatosCSV.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnGuardarDatosCSV.Margin = new System.Windows.Forms.Padding(2);
             this.btnGuardarDatosCSV.Name = "btnGuardarDatosCSV";
             this.btnGuardarDatosCSV.Size = new System.Drawing.Size(166, 53);
             this.btnGuardarDatosCSV.TabIndex = 47;
@@ -394,7 +394,7 @@ namespace CapaPresentacion
             this.dgvDatosCSV.AllowUserToDeleteRows = false;
             this.dgvDatosCSV.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvDatosCSV.Location = new System.Drawing.Point(64, 401);
-            this.dgvDatosCSV.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dgvDatosCSV.Margin = new System.Windows.Forms.Padding(2);
             this.dgvDatosCSV.Name = "dgvDatosCSV";
             this.dgvDatosCSV.ReadOnly = true;
             this.dgvDatosCSV.RowHeadersVisible = false;
@@ -424,7 +424,7 @@ namespace CapaPresentacion
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(1214, 569);
+            this.ClientSize = new System.Drawing.Size(1214, 797);
             this.Controls.Add(this.lblUbicacionCSV);
             this.Controls.Add(this.dgvDatosCSV);
             this.Controls.Add(this.btnGuardarDatosCSV);
@@ -451,7 +451,7 @@ namespace CapaPresentacion
             this.Controls.Add(this.btnGuardar);
             this.Controls.Add(this.topFormulario);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FrmMantEstudiante";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "FrmMantEstudiante";
