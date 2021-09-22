@@ -1,0 +1,5 @@
+E:\usb pepillo\TUTORIAS UNSAAC ULTIMO\CapaEntidades\bin\Release\CapaEntidades.dll
+E:\usb pepillo\TUTORIAS UNSAAC ULTIMO\CapaEntidades\bin\Release\CapaEntidades.pdb
+E:\usb pepillo\TUTORIAS UNSAAC ULTIMO\CapaEntidades\obj\Release\CapaEntidades.csproj.CoreCompileInputs.cache
+E:\usb pepillo\TUTORIAS UNSAAC ULTIMO\CapaEntidades\obj\Release\CapaEntidades.dll
+E:\usb pepillo\TUTORIAS UNSAAC ULTIMO\CapaEntidades\obj\Release\CapaEntidades.pdb
