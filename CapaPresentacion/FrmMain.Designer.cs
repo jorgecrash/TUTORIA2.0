@@ -160,6 +160,8 @@ namespace CapaPresentacion
             // 
             // labelCategoriaU
             // 
+            this.labelCategoriaU.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.labelCategoriaU.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.labelCategoriaU.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.labelCategoriaU.ForeColor = System.Drawing.Color.White;
             this.labelCategoriaU.Location = new System.Drawing.Point(67, 196);
