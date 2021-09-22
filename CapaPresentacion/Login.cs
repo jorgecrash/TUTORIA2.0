@@ -182,6 +182,11 @@ namespace CapaPresentacion
 
         }
 
+        private void txtusuario_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
         private void pictureBox2_MouseMove(object sender, MouseEventArgs e)
         {
             if (m == 1)

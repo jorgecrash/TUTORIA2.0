@@ -231,6 +231,7 @@ namespace CapaPresentacion
             this.txtusuario.BackColor = System.Drawing.Color.SeaShell;
             resources.ApplyResources(this.txtusuario, "txtusuario");
             this.txtusuario.Name = "txtusuario";
+            this.txtusuario.TextChanged += new System.EventHandler(this.txtusuario_TextChanged);
             // 
             // panel14
             // 

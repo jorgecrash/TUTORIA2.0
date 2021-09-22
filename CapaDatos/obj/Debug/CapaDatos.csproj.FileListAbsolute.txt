@@ -133,3 +133,12 @@ D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.csp
 D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
 D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.dll
 D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Jorge\Desktop\repositorio\TUTORIA2.0\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jorge\Desktop\repositorio\TUTORIA2.0\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jorge\Desktop\repositorio\TUTORIA2.0\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Jorge\Desktop\repositorio\TUTORIA2.0\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Jorge\Desktop\repositorio\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\repositorio\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\repositorio\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Jorge\Desktop\repositorio\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jorge\Desktop\repositorio\TUTORIA2.0\CapaDatos\obj\Debug\CapaDatos.pdb

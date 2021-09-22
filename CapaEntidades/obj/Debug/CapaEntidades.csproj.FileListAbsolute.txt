@@ -82,3 +82,9 @@ D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaEntidades\obj\Debug\CapaEntid
 D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
 D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaEntidades\obj\Debug\CapaEntidades.dll
 D:\DESARROLLO DE SOFTWARE I\git 2.0\TUTORIA2.0\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Jorge\Desktop\repositorio\TUTORIA2.0\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Jorge\Desktop\repositorio\TUTORIA2.0\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Jorge\Desktop\repositorio\TUTORIA2.0\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\repositorio\TUTORIA2.0\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\repositorio\TUTORIA2.0\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Jorge\Desktop\repositorio\TUTORIA2.0\CapaEntidades\obj\Debug\CapaEntidades.pdb
