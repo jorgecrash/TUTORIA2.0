@@ -70,7 +70,7 @@ namespace CapaDatos
             SqlCommand cmd = new SqlCommand("SP_INSERTARDOCENTE", conexion);
             cmd.CommandType = CommandType.StoredProcedure;
             conexion.Open();
-            //cmd.Parameters.AddWithValue("@IDDOCENTE", docente.IdDocente);
+            cmd.Parameters.AddWithValue("@IDDOCENTE", docente.IdDocente);
             cmd.Parameters.AddWithValue("@NOMBRES", docente.Nombres);
             cmd.Parameters.AddWithValue("@APELLIDOS", docente.Apellidos);
             cmd.Parameters.AddWithValue("@TITULO", docente.TituloAcademico);
@@ -101,6 +101,18 @@ namespace CapaDatos
 
             cmd.ExecuteNonQuery();
             conexion.Close();
+        }
+        public string Nuevo()
+        {
+            
+            SqlCommand cmd = new SqlCommand("NuevoDocente", conexion);
+            cmd.CommandType = CommandType.StoredProcedure;
+            conexion.Open();
+            cmd.CommandTimeout = 30;
+            SqlCommandBuilder.DeriveParameters(cmd);
+            cmd.ExecuteNonQuery();
+            conexion.Close();
+            return (string)cmd.Parameters["@RETURN_VALUE"].Value;
         }
     }
 }

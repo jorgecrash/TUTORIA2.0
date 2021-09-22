@@ -97,8 +97,9 @@ namespace CapaPresentacion
                 {
                     try
                     {
+                        entities.IdDocente = textCodigo.Text;
                         entities.Nombres = textNombres.Text;
-                        //   entities.IdEstudiante = Convert.ToInt32(textCodigo.Text);
+                      
                         entities.Apellidos = textApellidos.Text;
                         entities.TituloAcademico = textTitulo.Text;
                         entities.Facultad = comboBoxFacultad.Text;
@@ -118,7 +119,7 @@ namespace CapaPresentacion
                 {
                     try
                     {
-                        entities.IdDocente = IdDocente;
+                        entities.IdDocente = textCodigo.Text;
                         entities.Nombres = textNombres.Text;
                         entities.Apellidos = textApellidos.Text;
                         entities.TituloAcademico = textTitulo.Text;
@@ -176,6 +177,12 @@ namespace CapaPresentacion
         private void comboBoxCategoria_Validating(object sender, CancelEventArgs e)
         {
             metod_validating_ComboBox(comboBoxCategoria);
+        }
+
+        private void btnNuevo_Click(object sender, EventArgs e)
+        {
+            N_Docente D = new N_Docente();
+            textCodigo.Text = D.New();
         }
     }
 }

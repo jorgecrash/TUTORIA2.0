@@ -365,6 +365,7 @@ namespace CapaPresentacion
             // textId
             // 
             this.textId.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textId.Enabled = false;
             this.textId.Location = new System.Drawing.Point(85, 68);
             this.textId.Margin = new System.Windows.Forms.Padding(5);
             this.textId.Name = "textId";
@@ -373,10 +374,10 @@ namespace CapaPresentacion
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(378, 800);
+            this.button1.Location = new System.Drawing.Point(233, 822);
             this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(143, 50);
+            this.button1.Size = new System.Drawing.Size(143, 45);
             this.button1.TabIndex = 99;
             this.button1.Text = "Historial";
             this.button1.UseVisualStyleBackColor = true;
@@ -524,7 +525,7 @@ namespace CapaPresentacion
             // 
             // btnLimpiar
             // 
-            this.btnLimpiar.Location = new System.Drawing.Point(41, 800);
+            this.btnLimpiar.Location = new System.Drawing.Point(668, 817);
             this.btnLimpiar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnLimpiar.Name = "btnLimpiar";
             this.btnLimpiar.Size = new System.Drawing.Size(126, 47);
@@ -554,7 +555,7 @@ namespace CapaPresentacion
             this.btnGuardar.IconVisible = true;
             this.btnGuardar.IconZoom = 90D;
             this.btnGuardar.IsTab = false;
-            this.btnGuardar.Location = new System.Drawing.Point(597, 791);
+            this.btnGuardar.Location = new System.Drawing.Point(421, 817);
             this.btnGuardar.Margin = new System.Windows.Forms.Padding(5);
             this.btnGuardar.Name = "btnGuardar";
             this.btnGuardar.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(139)))), ((int)(((byte)(87)))));
@@ -582,9 +583,9 @@ namespace CapaPresentacion
             // 
             // btnNuevo
             // 
-            this.btnNuevo.Location = new System.Drawing.Point(212, 806);
+            this.btnNuevo.Location = new System.Drawing.Point(52, 822);
             this.btnNuevo.Name = "btnNuevo";
-            this.btnNuevo.Size = new System.Drawing.Size(112, 44);
+            this.btnNuevo.Size = new System.Drawing.Size(147, 44);
             this.btnNuevo.TabIndex = 104;
             this.btnNuevo.Text = "Nuevo";
             this.btnNuevo.UseVisualStyleBackColor = true;
