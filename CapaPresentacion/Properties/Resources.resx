@@ -148,14 +148,14 @@
   <data name="Imagen17" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Imagen17.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Imagen93" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Imagen93.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="pngegg (21)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngegg (21).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="minimize_sin bordes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\minimize_sin bordes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Closea" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Closea.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Imagen3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Imagen3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -319,6 +319,9 @@
   <data name="pngegg (24)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngegg (24).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="profesor-en-la-pizarra(0,44_0,66)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\profesor-en-la-pizarra(0,44_0,66)2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Imagen51" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Imagen51.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -328,8 +331,8 @@
   <data name="Imagen111" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Imagen111.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Imagen93" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Imagen93.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Closea" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Closea.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="More Of My Robots Enjoying The Quiet Wonder Of The World" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\More Of My Robots Enjoying The Quiet Wonder Of The World.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -337,7 +340,7 @@
   <data name="Imagen2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Imagen2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="profesor-en-la-pizarra(0,44_0,66)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\profesor-en-la-pizarra(0,44_0,66)2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="menu2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\menu2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
