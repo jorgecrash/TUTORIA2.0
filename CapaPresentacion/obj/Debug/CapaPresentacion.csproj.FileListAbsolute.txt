@@ -470,3 +470,15 @@ D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
 C:\Users\angel\Source\Repos\jorgecrash\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmHistorialEstudianteTutoria.resources
 C:\Users\angel\Source\Repos\jorgecrash\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmWelcome.resources
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaPresentacion\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.FrmWelcome.resources
+D:\TutoriaFinal(OJO)\TUTORIA2.0\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete

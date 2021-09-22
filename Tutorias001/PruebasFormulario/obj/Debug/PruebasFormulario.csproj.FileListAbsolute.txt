@@ -79,3 +79,7 @@ D:\TutoriaFinal(OJO)\TUTORIA2.0\Tutorias001\PruebasFormulario\obj\Debug\PruebasF
 D:\TutoriaFinal(OJO)\TUTORIA2.0\Tutorias001\PruebasFormulario\obj\Debug\PruebasFormulario.csproj.CopyComplete
 D:\TutoriaFinal(OJO)\TUTORIA2.0\Tutorias001\PruebasFormulario\obj\Debug\PruebasFormulario.dll
 D:\TutoriaFinal(OJO)\TUTORIA2.0\Tutorias001\PruebasFormulario\obj\Debug\PruebasFormulario.pdb
+D:\TutoriaFinal(OJO)\TUTORIA2.0\Tutorias001\PruebasFormulario\bin\Debug\xunit.abstractions.dll
+D:\TutoriaFinal(OJO)\TUTORIA2.0\Tutorias001\PruebasFormulario\bin\Debug\xunit.core.dll
+D:\TutoriaFinal(OJO)\TUTORIA2.0\Tutorias001\PruebasFormulario\bin\Debug\xunit.abstractions.xml
+D:\TutoriaFinal(OJO)\TUTORIA2.0\Tutorias001\PruebasFormulario\bin\Debug\xunit.core.xml
